@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0222-count-complete-tree-nodes) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
