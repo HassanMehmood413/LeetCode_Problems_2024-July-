@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2727-number-of-senior-citizens](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2727-number-of-senior-citizens) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0367-valid-perfect-square) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3515-find-if-digit-game-can-be-won) |
 ## String
 |  |
 | ------- |
