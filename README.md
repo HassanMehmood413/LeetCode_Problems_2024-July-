@@ -80,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0367-valid-perfect-square) |
+| [3462-vowels-game-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3515-find-if-digit-game-can-be-won) |
 ## String
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2727-number-of-senior-citizens) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3462-vowels-game-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
