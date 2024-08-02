@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0226-invert-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0098-validate-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3462-vowels-game-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
