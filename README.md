@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2727-number-of-senior-citizens](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2727-number-of-senior-citizens) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
 | ------- |
