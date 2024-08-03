@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2470-removing-stars-from-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2727-number-of-senior-citizens) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3462-vowels-game-in-a-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2470-removing-stars-from-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2470-removing-stars-from-a-string) |
 | [2698-find-the-array-concatenation-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2698-find-the-array-concatenation-value) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Brainteaser
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
