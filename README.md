@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1833-find-the-highest-altitude) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2698-find-the-array-concatenation-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2698-find-the-array-concatenation-value) |
 | [2727-number-of-senior-citizens](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2727-number-of-senior-citizens) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0303-range-sum-query-immutable) |
+| [1833-find-the-highest-altitude](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |
