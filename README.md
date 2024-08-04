@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1741-sort-array-by-increasing-frequency) |
