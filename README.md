@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2698-find-the-array-concatenation-value) |
 | [2727-number-of-senior-citizens](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3324-split-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3324-split-the-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3324-split-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3324-split-the-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Divide and Conquer
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3324-split-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3324-split-the-array) |
 ## Quickselect
 |  |
 | ------- |
