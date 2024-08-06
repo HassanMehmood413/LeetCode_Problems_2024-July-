@@ -4,13 +4,14 @@
  * @return {number}
  */
 var addedInteger = function (nums1, nums2) {
-    nums1.sort((a, b) => b - a)
-    nums2.sort((a, b) => b - a)
-    if (nums1[0] < nums2[0]) {
-        a = Math.abs(Math.min(...nums1) - Math.min(...nums2))
+
+    let first = Math.min(...nums1)
+    let second = Math.min(...nums2)
+    if (first < second) {
+        a = Math.abs(Math.min(first - second))
     }
     else {
-        a = (Math.min(...nums2) - Math.min(...nums1))
+        a = Math.min(second - first)
     }
     return a
 
