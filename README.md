@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3324-split-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3324-split-the-array) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
