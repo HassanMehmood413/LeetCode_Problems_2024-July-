@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
+| [0735-asteroid-collision](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0898-transpose-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1319-unique-number-of-occurrences) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0898-transpose-matrix) |
 | [2470-removing-stars-from-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2470-removing-stars-from-a-string) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
 |  |
