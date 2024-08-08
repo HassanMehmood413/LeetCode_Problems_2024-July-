@@ -5,18 +5,12 @@
  */
 var minOperations = function (nums, k) {
     let count = 0
-    let arr = []
-
+    let set = new Set()
     for (let i = nums.length - 1; i >= 0; i--) {
         if (nums[i] <= k) {
-            if (nums[i] !== nums[i + 1]) {
-                arr.push(nums[i])
-                count++
-                let set = new Set(arr)
-                arr = Array.from(set)
-            }
+            set.add(nums[i])
         }
-        if (arr.length == k) {
+        if (set.size == k) {
             return nums.length - i
         }
     }
