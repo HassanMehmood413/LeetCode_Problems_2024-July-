@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2727-number-of-senior-citizens) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
