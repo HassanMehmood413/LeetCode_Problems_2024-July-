@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1833-find-the-highest-altitude) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2102-find-the-middle-index-in-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0303-range-sum-query-immutable) |
 | [1833-find-the-highest-altitude](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2102-find-the-middle-index-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
