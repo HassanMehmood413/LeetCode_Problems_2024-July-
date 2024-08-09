@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1833-find-the-highest-altitude) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2698-find-the-array-concatenation-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2698-find-the-array-concatenation-value) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2728-sum-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2728-sum-in-a-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0334-increasing-triplet-subsequence) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
 |  |
