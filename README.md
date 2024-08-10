@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3324-split-the-array) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3324-split-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3324-split-the-array) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Divide and Conquer
