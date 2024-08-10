@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3324-split-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3324-split-the-array) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3373-maximum-prime-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0367-valid-perfect-square) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3373-maximum-prime-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3373-maximum-prime-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3373-maximum-prime-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3373-maximum-prime-difference) |
 ## Matrix
 |  |
 | ------- |
