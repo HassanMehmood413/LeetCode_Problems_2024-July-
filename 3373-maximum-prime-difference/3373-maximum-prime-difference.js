@@ -20,6 +20,9 @@ var maximumPrimeDifference = function (nums) {
             primes.push(i);
         }
     }
-    primes.sort((a, b) => a - b)
-    return primes[primes.length - 1] - primes[0]
+    // primes.sort((a, b) => a - b)
+    //OR
+    let Max = Math.max(...primes)
+    let Min = Math.min(...primes)
+    return Math.abs(Max-Min)
 };
