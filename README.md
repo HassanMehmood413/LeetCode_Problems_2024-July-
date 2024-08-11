@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3373-maximum-prime-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3462-vowels-game-in-a-string) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3515-find-if-digit-game-can-be-won) |
 ## String
