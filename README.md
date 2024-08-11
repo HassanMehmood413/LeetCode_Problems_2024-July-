@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-minimum-operations-to-collect-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3194-find-words-containing-character](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3324-split-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3324-split-the-array) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2727-number-of-senior-citizens) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3194-find-words-containing-character](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
