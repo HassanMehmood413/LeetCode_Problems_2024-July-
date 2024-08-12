@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2388-replace-elements-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2698-find-the-array-concatenation-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2698-find-the-array-concatenation-value) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2727-number-of-senior-citizens) |
