@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0172-factorial-trailing-zeroes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0367-valid-perfect-square) |
+| [1806-count-of-matches-in-tournament](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1806-count-of-matches-in-tournament) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0898-transpose-matrix) |
+| [1806-count-of-matches-in-tournament](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1806-count-of-matches-in-tournament) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2388-replace-elements-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2388-replace-elements-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2428-equal-row-and-column-pairs) |
