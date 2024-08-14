@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0086-partition-list) |
 | [0328-odd-even-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0328-odd-even-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Array
 |  |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1806-count-of-matches-in-tournament) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2388-replace-elements-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2388-replace-elements-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2470-removing-stars-from-a-string) |
