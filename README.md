@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2698-find-the-array-concatenation-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2698-find-the-array-concatenation-value) |
 | [2727-number-of-senior-citizens](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2727-number-of-senior-citizens) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3373-maximum-prime-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3462-vowels-game-in-a-string) |
