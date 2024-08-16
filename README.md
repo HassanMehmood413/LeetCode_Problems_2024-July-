@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0086-partition-list) |
 | [0328-odd-even-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0382-linked-list-random-node) |
+| [0859-design-circular-deque](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0859-design-circular-deque) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0735-asteroid-collision) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0859-design-circular-deque](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0898-transpose-matrix) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0303-range-sum-query-immutable) |
+| [0859-design-circular-deque](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0859-design-circular-deque) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0859-design-circular-deque) |
 ## Monotonic Queue
 |  |
 | ------- |
