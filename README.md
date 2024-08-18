@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0768-partition-labels) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
