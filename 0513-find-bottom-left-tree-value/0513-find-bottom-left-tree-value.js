@@ -28,9 +28,6 @@ var findBottomLeftValue = function (root) {
                 queue.push(first.left)
                 left = first.left.val
             }
-            if (first.left != null && first.right != null) {
-                left = first.left.val
-            }
         }
     }
     return left
