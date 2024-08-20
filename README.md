@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2384-root-equals-sum-of-children) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2384-root-equals-sum-of-children) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Sliding Window
