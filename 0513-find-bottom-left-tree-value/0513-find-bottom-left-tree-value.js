@@ -18,6 +18,7 @@ var findBottomLeftValue = function (root) {
     while (queue.length > 0) {
         let length = queue.length
         for (let i = 0; i < length; i++) {
+            //First rigth is push in queue then left will push in queue
             let first = queue.shift()
             if (first.right != null) {
                 queue.push(first.right)
