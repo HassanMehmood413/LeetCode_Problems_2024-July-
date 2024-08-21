@@ -11,7 +11,7 @@
  * @return {number[]}
  */
 var largestValues = function (root) {
-    if(!root) return []
+    if (!root) return []
     let queue = [root]
     arr = []
     arr.push(root.val)
@@ -26,7 +26,7 @@ var largestValues = function (root) {
                 queue.push(first.right)
             }
         }
-        maxVal = Math.max(...queue.filter(node => node !== null).map(node => node.val));
+        maxVal = Math.max(...queue.map(node => node.val));
         if (maxVal != -Infinity && maxVal != null) {
 
             arr.push(maxVal)
