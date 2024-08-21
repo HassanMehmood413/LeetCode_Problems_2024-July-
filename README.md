@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0384-shuffle-an-array) |
+| [0412-fizz-buzz](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0412-fizz-buzz) |
 | [0650-2-keys-keyboard](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0650-2-keys-keyboard) |
 | [1236-n-th-tribonacci-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1236-n-th-tribonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1806-count-of-matches-in-tournament) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0768-partition-labels) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0898-transpose-matrix) |
