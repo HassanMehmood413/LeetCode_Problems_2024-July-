@@ -12,7 +12,6 @@
  */
 var sumNumbers = function (root) {
     let stack = [[root, 0]]
-    let arr = ''
     let sum = 0
     while (stack.length > 0) {
         let length = stack.length
@@ -32,4 +31,6 @@ var sumNumbers = function (root) {
         }
     }
     return sum
+
+
 };
