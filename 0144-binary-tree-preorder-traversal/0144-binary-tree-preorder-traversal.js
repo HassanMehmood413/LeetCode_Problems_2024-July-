@@ -23,7 +23,7 @@ var preorderTraversal = function (root) {
     // }
     // return again(root)
 
-    // Using BFS
+    // Using DFS
     let stack = [root]
     if (!root) return []
     let arr = []
