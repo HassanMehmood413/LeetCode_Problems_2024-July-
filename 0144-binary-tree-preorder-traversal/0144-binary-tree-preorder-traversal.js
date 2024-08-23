@@ -11,13 +11,34 @@
  * @return {number[]}
  */
 var preorderTraversal = function (root) {
+    // Using Recursion
+
+    // let arr = []
+    // let again = function (root) {
+    //     if (root == null) return []
+    //     arr.push(root.val)
+    //     again(root.left)
+    //     again(root.right)
+    //     return arr
+    // }
+    // return again(root)
+
+    // Using BFS
+    let stack = [root]
+    if (!root) return []
     let arr = []
-    let again = function (root) {
-        if (root == null) return []
-        arr.push(root.val)
-        again(root.left)
-        again(root.right)
-        return arr
+    while (stack.length > 0) {
+        let length = stack.length
+        for (let i = 0; i < length; i++) {
+            let first = stack.pop()
+            arr.push(first.val)
+            if (first.right != null) {
+                stack.push(first.right)
+            }
+            if (first.left != null) {
+                stack.push(first.left)
+            }
+        }
     }
-    return again(root)
+    return arr
 };
