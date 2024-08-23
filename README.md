@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0074-search-a-2d-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0152-maximum-product-subarray) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0783-search-in-a-binary-search-tree) |
