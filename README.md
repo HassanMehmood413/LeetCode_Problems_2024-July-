@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1254-deepest-leaves-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1254-deepest-leaves-sum) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1254-deepest-leaves-sum) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0975-range-sum-of-bst) |
 ## Simulation
 |  |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0735-asteroid-collision) |
+| [0933-increasing-order-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0933-increasing-order-search-tree) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
