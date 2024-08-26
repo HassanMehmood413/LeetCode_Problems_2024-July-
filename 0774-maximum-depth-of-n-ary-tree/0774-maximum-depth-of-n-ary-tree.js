@@ -31,7 +31,7 @@ var maxDepth = function (root) {
     let max = 0
     var again = function (root, level) {
         if (!root) return 0
-        max = Math.max(max, level)
+        max = Math.max(level, max)
         for (let i of root.children) {
             again(i, level + 1)
         }
