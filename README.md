@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0398-random-pick-index) |
 | [0496-next-greater-element-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0768-partition-labels) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0412-fizz-buzz) |
 | [0650-2-keys-keyboard](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0650-2-keys-keyboard) |
 | [1236-n-th-tribonacci-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1236-n-th-tribonacci-number) |
@@ -644,10 +646,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
