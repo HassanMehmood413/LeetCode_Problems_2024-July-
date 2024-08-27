@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0768-partition-labels) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
