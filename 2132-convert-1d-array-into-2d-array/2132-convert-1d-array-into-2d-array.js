@@ -5,21 +5,34 @@
  * @return {number[][]}
  */
 var construct2DArray = function (original, m, n) {
+    // if (m * n !== original.length) {
+    //     return []
+    // }
+    // let res = []
+    // let org = []
+    // let index = 0
+    // for (let i = 0; i < m; i++) {
+    //     for (let j = 0; j < n; j++) {
+    //         res.push(original[index])
+    //         index++
+    //     }
+    //     org.push(res)
+    //     res = []
+    // }
+    // return org
+
+
+    //Better complexity:
     if (m * n !== original.length) {
         return []
     }
     let res = []
-    let org = []
     let index = 0
     for (let i = 0; i < m; i++) {
-        for (let j = 0; j < n; j++) {
-            res.push(original[index])
-            index++
-        }
-        org.push(res)
-        res = []
+        res.push(original.slice(index, index + n))
+        index += n
     }
-    return org
+    return res
 
 
 
