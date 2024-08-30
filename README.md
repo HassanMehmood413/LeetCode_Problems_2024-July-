@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0056-merge-intervals) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0018-4sum) |
 | [0086-partition-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
