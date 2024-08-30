@@ -11,36 +11,34 @@
  */
 var removeNodes = function (head) {
     let prev = null
-    let cur = head
-    while (cur != null) {
-        temp = cur.next
-        cur.next = prev
-        prev = cur
-        cur = temp
+    let current = head
+    while(current != null){
+        let temp = current.next
+        current.next = prev
+        prev = current
+        current = temp
     }
-    let current = prev
+    let current2 = prev
     let dummy = new ListNode()
-    let dum = dummy
-    while (current != null) {
-        if (current.val >= dum.val) {
-            dum.next = current
-            dum = current
-            current = current.next
+    let prev2 = dummy
+    while(current2 != null){
+        if(current2.val >= prev2.val){
+            prev2.next = current2
+            prev2 = current2
+            current2 = current2.next
         }
-        else {
-            current = current.next
+        else{
+            current2 = current2.next
         }
     }
-    dum.next = null
-
-
-    let again = null
-    let ag = dummy.next
-    while (ag != null) {
-        temp = ag.next
-        ag.next = again
-        again = ag
-        ag = temp
+    prev2.next = null
+    let prev3 = null
+    let current3 = dummy.next
+    while(current3 != null){
+        let temp = current3.next
+        current3.next = prev3
+        prev3 = current3
+        current3 = temp
     }
-    return again
+    return prev3
 };
