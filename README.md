@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1806-count-of-matches-in-tournament) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2491-smallest-even-multiple) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2470-removing-stars-from-a-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2428-equal-row-and-column-pairs) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2631-sort-the-students-by-their-kth-score) |
