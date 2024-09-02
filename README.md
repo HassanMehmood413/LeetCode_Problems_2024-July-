@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2102-find-the-middle-index-in-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2102-find-the-middle-index-in-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2530-minimize-maximum-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2530-minimize-maximum-of-array) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1806-count-of-matches-in-tournament) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2299-merge-nodes-in-between-zeros) |
