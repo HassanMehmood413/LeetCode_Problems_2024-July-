@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0654-maximum-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0904-leaf-similar-trees) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0503-next-greater-element-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0735-asteroid-collision) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0654-maximum-binary-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -647,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0933-increasing-order-search-tree) |
@@ -694,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0654-maximum-binary-tree) |
 | [2573-remove-nodes-from-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2573-remove-nodes-from-linked-list) |
 ## Radix Sort
 |  |
