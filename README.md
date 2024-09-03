@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0768-partition-labels) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0459-repeated-substring-pattern) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Union Find
 |  |
