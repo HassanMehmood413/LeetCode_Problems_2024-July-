@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1806-count-of-matches-in-tournament) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2299-merge-nodes-in-between-zeros) |
