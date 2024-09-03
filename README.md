@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2530-minimize-maximum-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2530-minimize-maximum-of-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
