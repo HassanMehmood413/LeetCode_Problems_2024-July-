@@ -4,7 +4,7 @@
  * @return {number}
  */
 var minSubArrayLen = function (target, nums) {
-    let sum = nums[0]
+        let sum = nums[0]
     let length = 1
     let max_l = Infinity
     let k = 0
