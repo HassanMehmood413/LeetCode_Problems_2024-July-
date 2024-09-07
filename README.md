@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0209-minimum-size-subarray-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0128-longest-consecutive-sequence) |
