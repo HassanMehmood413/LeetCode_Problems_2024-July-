@@ -4,50 +4,32 @@
  * @return {number}
  */
 var maxVowels = function (s, k) {
-    // s = s.split('')
-    // let vowels = 'aeiou'
-    // let str = []
-    // let count = 0
-    // for (let i = 0; i < k; i++) {
-    //     str.push(s[i])
-    //     if (vowels.includes(s[i])) {
-    //         count++
-    //     }
-    // }
-    // let max = count
-    // for (let i = k; i < s.length; i++) {
-    //     str.push(s[i])
-    //     let a = str.shift()
-    //     if (vowels.includes(a)) {
-    //         count--
-    //     }
-    //     if (vowels.includes(s[i])) {
-    //         count++
-    //     }
-    //     max = Math.max(count, max)
-
-    // }
-    // return max
-
-
-    s = s.split('')
-    let vowels = 'aeiou'
-    let str = []
+    let left = 0
     let count = 0
-    let max = count
-    for (let i = 0; i < s.length; i++) {
-        str.push(s[i])
-        if (str.length > k) {
-            let a = str.shift()
-            if (vowels.includes(a)) {
-                count--
-            }
-        }
+    let str = ''
+    let vowels = 'aeiou'
+    let max = 0;
+    for (let i = 0; i < k; i++) {
+        str = str + s[i]
         if (vowels.includes(s[i])) {
             count++
         }
-        max = Math.max(count, max)
-
+    }
+    max = count
+    for (let right = k; right <= s.length; right++) {
+        str = str + s[right]
+        if (vowels.includes(s[right])) {
+            count++
+        }
+        if (str.length > k) {
+            while (str.length > k) {
+                if (vowels.includes(str[left])) {
+                    count--
+                }
+                str = str.slice(1)
+            }
+        }
+        max = Math.max(max, count)
     }
     return max
 };
