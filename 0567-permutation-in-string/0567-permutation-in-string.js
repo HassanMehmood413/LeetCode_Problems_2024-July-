@@ -11,10 +11,12 @@ var checkInclusion = function (s1, s2) {
         f1.set(s1[i], (f1.get(s1[i]) || 0) + 1)
         f2.set(s2[i], (f2.get(s2[i]) || 0) + 1)
     }
-    if (mapsAreEqual(f1, f2)) {
+
+    if (Equal(f1, f2)) {
         return true
     }
 
+    // Sliding Window
     for (let i = s1.length; i < s2.length; i++) {
         let cout = s2[i - s1.length]
         if (f2.get(cout) == 1) {
@@ -25,27 +27,17 @@ var checkInclusion = function (s1, s2) {
         }
         let cin = s2[i]
         f2.set(cin, (f2.get(cin) || 0) + 1)
-        if (mapsAreEqual(f1, f2)) {
-            return true
-        }
+
+        if(Equal(f1,f2)) return true
 
     }
     return false
-};
-/**
- * Helper function to check if two maps are equal
- * @param {Map} map1
- * @param {Map} map2
- * @return {boolean}
- */
-function mapsAreEqual(map1, map2) {
-    if (map1.size !== map2.size) {
-        return false;
+}
+
+var Equal = function (map1, map2) {
+    if (map1.size != map2.size) return false
+    for (let [key, value] of map1) {
+        if (value != map2.get(key)) return false
     }
-    for (let [key, val] of map1) {
-        if (val !== map2.get(key)) {
-            return false;
-        }
-    }
-    return true;
+    return true
 }
