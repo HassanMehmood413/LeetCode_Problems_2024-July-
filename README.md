@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0382-linked-list-random-node) |
+| [0725-split-linked-list-in-parts](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0859-design-circular-deque) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2299-merge-nodes-in-between-zeros) |
