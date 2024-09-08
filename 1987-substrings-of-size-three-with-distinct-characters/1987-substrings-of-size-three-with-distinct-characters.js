@@ -3,21 +3,22 @@
  * @return {number}
  */
 var countGoodSubstrings = function (s) {
-    s = s.split("")
-    let k = 3
     let str = ''
-    for (let i = 0; i < k; i++) {
-        str = str + s[i]
-    }
-    let count = 0
-    str = str.split("")
-    let l = 0
-    for (let i = 0; i <= s.length - k; i++) {
-        if (str[l] != str[l + 1] && str[l + 1] != str[l + 2] && str[l] != str[l + 2]) {
-            count++
+    let k = 3
+    let org = 0
+    for (let right = 0; right < s.length; right++) {
+        str = str + s[right]
+        if (str.length > k) {
+            while (str.length > k) {
+                str = str.slice(1)
+            }
         }
-        str.push(s[k + i])
-        str.shift(0)
+        if (str.length == k) {
+
+            if (str[0] != str[1] && str[1] != str[2] && str[0] != str[2]) {
+                org++
+            }
+        }
     }
-    return count
+    return org
 };
