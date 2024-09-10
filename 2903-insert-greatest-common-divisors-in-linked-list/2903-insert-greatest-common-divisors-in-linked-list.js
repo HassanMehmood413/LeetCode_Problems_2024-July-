@@ -10,36 +10,23 @@
  * @return {ListNode}
  */
 var insertGreatestCommonDivisors = function (head) {
-    let numbers = []
-    let current = head
     let dummy = new ListNode()
     let prev = dummy
-    while (current != null) {
-        numbers.push(current.val)
-        current = current.next
-    }
-
-    let result = [];
-
-    for (let i = 0; i < numbers.length - 1; i++) {
-        result.push(numbers[i]);
-
-        let a = numbers[i];
-        let b = numbers[i + 1];
-        while (b !== 0) {
-            [a, b] = [b, a % b];
+    let slow = head
+    let fast = slow.next
+    while (fast != null) {
+        let a = slow.val
+        let b = fast.val
+        while (b != 0) {
+            [a, b] = [b, a % b]
         }
-        let gcdValue = a;
-
-        result.push(gcdValue);
-    }
-
-    result.push(numbers[numbers.length - 1]);
-
-
-    for (let i = 0; i <= result.length - 1; i++) {
-        prev.next = new ListNode(result[i])
+        prev.next = new ListNode(slow.val)
         prev = prev.next
+        prev.next = new ListNode(a)
+        prev = prev.next
+        slow = slow.next
+        fast = fast.next
     }
+    prev.next = new ListNode(slow.val)
     return dummy.next
 };
