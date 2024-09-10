@@ -22,22 +22,22 @@ var insertGreatestCommonDivisors = function (head) {
     let result = [];
 
     for (let i = 0; i < numbers.length - 1; i++) {
-        result.push(numbers[i]); 
+        result.push(numbers[i]);
 
         let a = numbers[i];
         let b = numbers[i + 1];
         while (b !== 0) {
             [a, b] = [b, a % b];
         }
-        let gcdValue = a; 
+        let gcdValue = a;
 
-        result.push(gcdValue); 
+        result.push(gcdValue);
     }
 
     result.push(numbers[numbers.length - 1]);
 
 
-    for (let i = 0; i <= result.length - 1;i++){
+    for (let i = 0; i <= result.length - 1; i++) {
         prev.next = new ListNode(result[i])
         prev = prev.next
     }
