@@ -5,15 +5,21 @@
  */
 var search = function (nums, target) {
     // Main Problem is to avoid duplicates
-    nums = nums.filter((value,index)=>{
-        return nums.indexOf(value) == index
-    })
     let i = 0
     let j = nums.length - 1
     while (i <= j) {
         mid = Math.floor((i + j) / 2)
+        if (nums[mid] === target) {
+            return true;
+        }
+
+
+        if (nums[i] === nums[mid] && nums[j] === nums[mid]) {
+            i++;
+            j--;
+        }
         // left half is sorted
-        if (nums[i] <= nums[mid]) {
+        else if (nums[i] <= nums[mid]) {
             if (target == nums[mid]) {
                 return true
             }
