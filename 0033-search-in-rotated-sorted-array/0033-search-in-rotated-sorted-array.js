@@ -8,12 +8,12 @@ var search = function (nums, target) {
     let right = nums.length - 1
     while (left <= right) {
         let mid = Math.floor((left + right) / 2)
-        if (nums[left] <= nums[mid]) {
+        if (nums[0] <= nums[mid]) {
 
             if (nums[mid] == target) {
                 return mid
             }
-            else if (nums[left] <= target && target <= nums[mid]) {
+            else if (nums[0] <= target && target <= nums[mid]) {
                 right = mid - 1
             }
             else {
@@ -24,7 +24,7 @@ var search = function (nums, target) {
             if (nums[mid] == target) {
                 return mid
             }
-            else if (nums[mid] < target && target <= nums[right]) {
+            else if (nums[mid] < target && target <= nums[nums.length - 1]) {
                 left = mid + 1
             }
             else {
