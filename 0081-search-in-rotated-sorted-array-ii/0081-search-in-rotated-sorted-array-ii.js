@@ -13,7 +13,7 @@ var search = function (nums, target) {
             return true;
         }
 
-
+        // Avoid Duplicates
         if (nums[i] === nums[mid] && nums[j] === nums[mid]) {
             i++;
             j--;
