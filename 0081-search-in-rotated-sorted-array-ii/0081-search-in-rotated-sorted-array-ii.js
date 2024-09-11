@@ -4,6 +4,7 @@
  * @return {boolean}
  */
 var search = function (nums, target) {
+    // Main Problem is to avoid duplicates
     nums = nums.filter((value,index)=>{
         return nums.indexOf(value) == index
     })
