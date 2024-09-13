@@ -7,18 +7,13 @@ var maxSubArray = function (nums) {
     let sum = 0
     for (let i = 0; i < nums.length; i++) {
         sum = sum + nums[i]
-        if (sum < 0) {
-            sum = 0
-        }
         if (sum > max) {
             max = sum
 
         }
+        if (sum < 0) {
+            sum = 0
+        }
     }
-    if (max < 0) {
-        return Math.min(...nums)
-    }
-    else {
-        return max
-    }
+    return max
 };
