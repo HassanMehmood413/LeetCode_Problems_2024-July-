@@ -20,7 +20,7 @@ var searchMatrix = function (matrix, target) {
     //     }
     // }
     // return false
-    if (matrix == null || matrix.length < 1 || matrix[0].length < 1) return false
+    // if (matrix == null || matrix.length < 1 || matrix[0].length < 1) return false
     let col = matrix[0].length - 1
     let row = 0
     while (col >= 0 && row <= matrix.length - 1) {
