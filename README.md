@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
+| [1435-xor-queries-of-a-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1435-xor-queries-of-a-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1046-max-consecutive-ones-iii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1833-find-the-highest-altitude) |
