@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0398-random-pick-index) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0443-string-compression) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0380-insert-delete-getrandom-o1) |
