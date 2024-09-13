@@ -21,6 +21,8 @@ var searchMatrix = function (matrix, target) {
     // }
     // return false
 
+
+    // Both have 0(m*n) Complexity:
     let row = 0
     let col = matrix[0].length - 1
     while (row <= matrix.length - 1 && col >= 0) {
