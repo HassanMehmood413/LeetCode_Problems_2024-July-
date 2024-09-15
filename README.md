@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3034-points-that-intersect-with-cars](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3034-points-that-intersect-with-cars) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2634-minimum-common-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2634-minimum-common-value) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3034-points-that-intersect-with-cars](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3034-points-that-intersect-with-cars) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2530-minimize-maximum-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2530-minimize-maximum-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2714-left-and-right-sum-differences) |
+| [3034-points-that-intersect-with-cars](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3034-points-that-intersect-with-cars) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
