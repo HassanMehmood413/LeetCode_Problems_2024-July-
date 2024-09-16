@@ -12,7 +12,7 @@ var eraseOverlapIntervals = function (intervals) {
         }
 
         else {
-            max = intervals[i][1]
+            max = Math.max(max,intervals[i][1])
         }
     }
     return count
