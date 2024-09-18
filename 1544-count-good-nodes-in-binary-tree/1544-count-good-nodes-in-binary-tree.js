@@ -22,12 +22,12 @@ var goodNodes = function (root) {
             if (node.val >= max) {
                 count++
             }
-            max = Math.max(node.val,max)
+            newmax = Math.max(node.val,max)
             if (node.left != null) {
-                queue.push({ node: node.left, max: node.val })
+                queue.push({ node: node.left, max: newmax })
             }
             if (node.right != null) {
-                queue.push({ node: node.right, max: node.val })
+                queue.push({ node: node.right, max: newmax })
             }
         }
     }
