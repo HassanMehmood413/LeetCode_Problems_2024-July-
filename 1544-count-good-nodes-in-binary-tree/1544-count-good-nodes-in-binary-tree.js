@@ -11,24 +11,25 @@
  * @return {number}
  */
 var goodNodes = function (root) {
-    let stack = [{ node: root, max: root.val }]
+    if(root.val == null) return 0
+    let queue = [{ node: root, max: root.val }]
     let count = 0
     let max = root.val
-    while (stack.length > 0) {
-        // let length = stack.length
-        // for (let i = 0; i < length; i++) {
-            let { node, max } = stack.pop()
+    while (queue.length > 0) {
+        let length = queue.length
+        for (let i = 0; i < length; i++) {
+            let { node, max } = queue.shift()
             if (node.val >= max) {
-                max = node.val
                 count++
             }
+            max = Math.max(node.val,max)
             if (node.left != null) {
-                stack.push({ node: node.left, max: node.val })
+                queue.push({ node: node.left, max: node.val })
             }
             if (node.right != null) {
-                stack.push({ node: node.right, max: node.val })
+                queue.push({ node: node.right, max: node.val })
             }
-        // }
+        }
     }
     return count
 };
