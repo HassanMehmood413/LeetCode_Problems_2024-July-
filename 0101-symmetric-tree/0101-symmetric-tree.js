@@ -11,36 +11,15 @@
  * @return {boolean}
  */
 var isSymmetric = function (root) {
-    if (root == null || (root.left == null && root.right == null)) return true
-    let queue = [root]
+    var again = function (root1, root2) {
 
-    while (queue.length > 0) {
-        left_arr = []
-        right_arr = []
-        let length = queue.length
-        for (let i = 0; i < length; i++) {
-            let first = queue.shift()
-            if (first.left != null) {
-                left_arr.push(first.left ? first.left.val : null)
-                queue.push(first.left)
-            }
-            if (first.right != null) {
-                right_arr.push(first.right ? first.right.val : null)
-                queue.push(first.right)
-            }
-            if (first.right == null && first.left == null) {
-                right_arr.push(null)
-                left_arr.push(null)
-            }
-        }
-        left_arr = left_arr.reverse().join(",")
-        if (left_arr == right_arr.join(',')) {
-            left_arr = ''
-            right_arr = ''
-        }
-        else {
-            return false
-        }
+        if (!root1 && !root2) return true
+        if (!root1 || !root2) return false
+        if (root1.val != root2.val) return false
+        let left = again(root1.left, root2.right)
+        let right = again(root1.right, root2.left)
+        return left && right
     }
-    return true
+    return again(root.left, root.right)
+    
 };
