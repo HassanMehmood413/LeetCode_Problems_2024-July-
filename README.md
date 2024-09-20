@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0073-set-matrix-zeroes) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0152-maximum-product-subarray) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0357-count-numbers-with-unique-digits) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0435-non-overlapping-intervals) |
