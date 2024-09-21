@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -865,4 +866,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
