@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0898-transpose-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
