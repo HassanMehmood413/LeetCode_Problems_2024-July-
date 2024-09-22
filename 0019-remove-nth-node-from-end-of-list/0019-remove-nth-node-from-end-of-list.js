@@ -11,37 +11,54 @@
  * @return {ListNode}
  */
 var removeNthFromEnd = function (head, n) {
-    let curr = head
-    let prev = null
-    while (curr != null) {
-        let temp = curr.next
-        curr.next = prev
-        prev = curr
-        curr = temp
+    // let curr = head
+    // let prev = null
+    // while (curr != null) {
+    //     let temp = curr.next
+    //     curr.next = prev
+    //     prev = curr
+    //     curr = temp
+    // }
+
+
+    // let curr1 = prev
+    // let dummy = new ListNode()
+    // let prev1 = dummy
+    // let length = 0
+    // while (curr1 != null) {
+    //     if (length != n - 1) {
+    //         prev1.next = new ListNode(curr1.val)
+    //         prev1 = prev1.next
+    //     }
+    //     length++
+    //     curr1 = curr1.next
+    // }
+
+    // let curr2 = dummy.next
+    // let prev2 = null
+    // while (curr2 != null) {
+    //     let temp = curr2.next
+    //     curr2.next = prev2
+    //     prev2 = curr2
+    //     curr2 = temp
+    // }
+    // return prev2
+
+
+    let slow = head
+    let fast = head
+    for (let i = 0; i < n; i++){
+        fast = fast.next
     }
-
-
-    let curr1 = prev
-    let dummy = new ListNode()
-    let prev1 = dummy
-    let length = 0
-    while (curr1 != null) {
-        if (length != n - 1) {
-            prev1.next = new ListNode(curr1.val)
-            prev1 = prev1.next
-        }
-        length++
-        curr1 = curr1.next
+    if(!fast){
+        return head.next
     }
-
-    let curr2 = dummy.next
-    let prev2 = null
-    while (curr2 != null) {
-        let temp = curr2.next
-        curr2.next = prev2
-        prev2 = curr2
-        curr2 = temp
+    while(fast.next != null){
+        slow = slow.next
+        fast = fast.next
     }
-    return prev2
+    slow.next = slow.next.next
+    return head
 
+    
 };
