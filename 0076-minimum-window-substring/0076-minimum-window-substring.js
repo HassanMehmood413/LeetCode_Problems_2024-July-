@@ -4,51 +4,48 @@
  * @return {string}
  */
 var minWindow = function (s, t) {
-    t = t.split('');
-    s = s.split("");
-
-    // Initialize the map with the count of each character in t
-    let map = new Map();
-    t.forEach(element => {
-        if (map.has(element)) {
-            map.set(element, map.get(element) + 1);
-        } else {
-            map.set(element, 1);
+    s = s.split('')
+    t = t.split('')
+    let map = new Map()
+    t.forEach((value) => {
+        if (map.has(value)) {
+            map.set(value, map.get(value) + 1)
         }
-    });
+        else {
+            map.set(value, 1)
+        }
+    })
 
-    let tcount = map.size;
-    let windows = new Map();
-    let have = 0;
-    let need = tcount;  // Need is the number of unique characters in t
-    let r = 0;
-    let res = [-1, -1];
-    let minlength = Infinity;
+    let window = new Map()
+    let tcount = map.size
+    let have = 0
+    let need = tcount
+    let min = Infinity
+    let r = 0
+    let res = [-1, -1]
 
     for (let i = 0; i < s.length; i++) {
-        let c = s[i];
-        windows.set(c, (windows.get(c) || 0) + 1);
+        let c = s[i]
+        window.set(c, (window.get(c) || 0) + 1);
 
-        if (map.has(c) && windows.get(c) === map.get(c)) {
-            have++;
+        if (map.has(c) && window.get(c) == map.get(c)) {
+            have++
+        }
+        while (have == need) {
+            if (i - r + 1 < min) {
+                min = i - r + 1
+                res = [r, i]
+            }
+            window.set(s[r], window.get(s[r]) - 1)
+            if (map.has(s[r]) && window.get(s[r]) < map.get(s[r])) {
+                have--
+            }
+            r++
         }
 
-        while (have === need) {
-            if (i - r + 1 < minlength) {
-                res = [r, i];
-                minlength = i - r + 1;
-            }
-
-            windows.set(s[r], windows.get(s[r]) - 1);
-            if (map.has(s[r]) && windows.get(s[r]) < map.get(s[r])) {
-                have--;
-            }
-            r++;
-        }
     }
-
-    let [start, end] = res;
-    if (minlength !== Infinity) {
+    let [start, end] = res
+    if (min != Infinity) {
         return s.slice(start, end + 1).join("")
     } else {
         return ''
