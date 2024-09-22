@@ -2,24 +2,21 @@
  * @param {number[]} prices
  * @return {number}
  */
-var maxProfit = function (a) {
-    let j = 1
+var maxProfit = function (prices) {
+    let l = 0
+    let r = 1
     let max = 0
-    let i = 0
-    while (i <= a.length - 1) {
-
-        if (a[i] < a[j]) {
-            b = a[j] - a[i]
-            max = b + max
-            i++
-            j++
+    while (l <= prices.length - 1) {
+        if (prices[l] < prices[r]) {
+            let b = prices[r] - prices[l]
+            max = max + b
+            l++
+            r++
         }
-
         else {
-            i++
-            j++
+            l++
+            r++
         }
-
     }
     return max
 };
