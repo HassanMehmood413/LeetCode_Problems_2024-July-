@@ -14,11 +14,10 @@ var flatten = function (root) {
     let dummy = new TreeNode()
     let prev = dummy
     var again = function (root) {
-        if (!root) return
+        if (!root) return []
+
         prev.right = root
         prev = prev.right
-        // we just only need the right nodes in flatten BT 
-        //So we go to the right node and make its left children null 
         let left = root.left
         let right = root.right
         root.left = null
@@ -27,5 +26,4 @@ var flatten = function (root) {
     }
     again(root)
     return dummy.right
-
-};
+}
