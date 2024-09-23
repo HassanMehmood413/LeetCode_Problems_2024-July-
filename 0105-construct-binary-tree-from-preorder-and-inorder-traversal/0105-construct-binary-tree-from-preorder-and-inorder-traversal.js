@@ -12,20 +12,36 @@
  * @return {TreeNode}
  */
 var buildTree = function (preorder, inorder) {
-    if (preorder.length == 0 || inorder.length == 0) return null
-    let first = preorder[0]
-    let root = new TreeNode(first)
-    let index = inorder.indexOf(first)
+    // if (preorder.length == 0 || inorder.length == 0) return null
+    // let first = preorder[0]
+    // let root = new TreeNode(first)
+    // let index = inorder.indexOf(first)
 
-    let left = inorder.slice(0, index)
-    let right = inorder.slice(index + 1)
+    // let left = inorder.slice(0, index)
+    // let right = inorder.slice(index + 1)
 
-    preorder.shift()
+    // preorder.shift()
 
-    let leftP = preorder.slice(0, left.length)
-    let rightP = preorder.slice(left.length)
+    // let leftP = preorder.slice(0, left.length)
+    // let rightP = preorder.slice(left.length)
 
-    root.left = buildTree(leftP,left)
-    root.right = buildTree(rightP,right)
-    return root
+    // root.left = buildTree(leftP,left)
+    // root.right = buildTree(rightP,right)
+    // return root
+
+    var again = function (preorder, inorder) {
+
+        if (preorder.length == 0 || inorder.length == 0) return null
+        else {
+
+            let index = inorder.indexOf(preorder.shift())
+            let root = new TreeNode(inorder[index])
+
+            root.left = again(preorder, inorder.slice(0, index))
+            root.right = again(preorder, inorder.slice(index + 1))
+            return root
+        }
+        return null
+    }
+    return again(preorder, inorder)
 };
