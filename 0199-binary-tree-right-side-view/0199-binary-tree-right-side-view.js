@@ -11,36 +11,25 @@
  * @return {number[]}
  */
 var rightSideView = function (root) {
-    // if (!root) return []
-    // let queue = [root]
-    // let arr = []
-    // while (queue.length > 0) {
-    //     let length = queue.length
-    //     for (let i = 0; i < length; i++) {
-    //         let first = queue.shift()
-    //         if (i == length - 1) {
-    //             arr.push(first.val)
-    //         }
-    //         if (first.left != null) {
-    //             queue.push(first.left)
-    //         }
-    //         if (first.right != null) {
-    //             queue.push(first.right)
-    //         }
-    //     }
-    // }
-    // return arr
-
-    // Using Recursion
+    if (!root) return []
+    let queue = [root]
     let arr = []
-    let again = function(root,level){
-        if(!root) return []
-        if(arr.length == level){
-            arr.push(root.val)
+    while (queue.length > 0) {
+        let length = queue.length
+        for (let i = 0; i < length; i++) {
+            let first = queue.shift()
+            if (i == length - 1) {
+                arr.push(first.val)
+            }
+            if (first.left != null) {
+                queue.push(first.left)
+            }
+            if (first.right != null) {
+                queue.push(first.right)
+            }
         }
-        again(root.right,level+1)
-        again(root.left,level+1)
     }
-    again(root,0)
     return arr
+
+
 };
