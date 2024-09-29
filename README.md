@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1706-min-cost-to-connect-all-points](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1706-min-cost-to-connect-all-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -853,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0695-max-area-of-island) |
+| [1706-min-cost-to-connect-all-points](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1706-min-cost-to-connect-all-points) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -919,8 +921,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0547-number-of-provinces) |
+| [1706-min-cost-to-connect-all-points](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0207-course-schedule) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
