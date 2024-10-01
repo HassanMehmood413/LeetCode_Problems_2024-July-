@@ -4,7 +4,10 @@
  * @return {number[]}
  */
 var findOrder = function (numCourses, prerequisites) {
-    let graph = new Array(numCourses).fill(0).map(() => []); 
+    let graph = new Array(numCourses)
+    for (let i = 0; i < numCourses; i++) {
+        graph[i] = []
+    }
     let indegree = new Array(numCourses).fill(0)
     let visit = new Array(numCourses).fill(false)
     let arr = []
