@@ -4,6 +4,8 @@
  * @return {number[]}
  */
 var findOrder = function (numCourses, prerequisites) {
+
+    // Kahns Algorithm
     let graph = new Array(numCourses)
     for (let i = 0; i < numCourses; i++) {
         graph[i] = []
