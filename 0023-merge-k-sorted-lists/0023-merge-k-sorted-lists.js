@@ -42,7 +42,7 @@ var mergeKLists = function (lists) {
         for (let i = 0; i < lists.length; i += 2) {
             let l1 = lists[i];
             let l2 = i + 1 < lists.length ? lists[i + 1] : null;
-            mergedLists.push(merge(l1, l2));
+            let a = mergedLists.push(merge(l1, l2));
         }
 
         lists = mergedLists; // Update the lists array to hold merged results
