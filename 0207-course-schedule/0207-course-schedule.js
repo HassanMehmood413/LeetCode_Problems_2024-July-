@@ -4,41 +4,36 @@
  * @return {boolean}
  */
 var canFinish = function (numCourses, prerequisites) {
-    // let graph = {}
-    // for (let i = 0; i < numCourses; i++) {
-    //     graph[i] = []
-    // }
-    // for (const [crs, pre] of prerequisites) {
-    //     graph[crs].push(pre)
-    // }
-
-    let graph = new Map()
+    let graph = []
     for (let i = 0; i < numCourses; i++) {
-        graph.set(i, [])
+        graph[i] = []
     }
-    for (let [pre, crs] of prerequisites) {
-        graph.get(crs).push(pre)
+    for (let [u, v] of prerequisites) {
+        graph[u].push(v)
     }
-    //Visite SEt
-    let visit = new Set()
-    var again = function (crs) {
-        if (visit.has(crs)) return false
 
-        // checking map 
-        visit.add(crs)
-        //Now check every prerequisites using loop
-        for (const pre of graph.get(crs)) {
-            if (!again(pre)) return false
+    var bfs = function (graph, visit, start) {
+        visit[start] = true
+        stack[start] = true
+        for (let neighbor of graph[start]) {
+            if (!visit[neighbor]) {
+                if (bfs(graph, visit, neighbor)) return true
+            }
+            else if(stack[neighbor]) return true
         }
-        visit.delete(crs)
-        graph.set(crs, [])
-        return true
+        stack[start] = false
+        return false
     }
-    // now the condition is if every courses has no prerequisites then ?
-    for (let crs = 0; crs < numCourses; crs++) {
-        if (!again(crs)) return false
-    } return true
 
+
+    let visit = new Array(numCourses).fill(false)
+    let stack = new Array(numCourses).fill(false)
+    for (let i = 0; i < numCourses; i++) {
+        if (!visit[i]) {
+            if (bfs(graph, visit, i)) return false
+        }
+    }
+    return true
 
 
 
