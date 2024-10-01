@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0654-maximum-binary-tree) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0650-2-keys-keyboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1063-best-sightseeing-pair](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1063-best-sightseeing-pair) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0898-transpose-matrix) |
