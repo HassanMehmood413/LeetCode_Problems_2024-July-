@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1063-best-sightseeing-pair](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1063-best-sightseeing-pair) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1392-find-the-difference-of-two-arrays) |
