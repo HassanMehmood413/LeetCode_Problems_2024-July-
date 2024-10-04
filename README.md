@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2530-minimize-maximum-of-array) |
 | [2561-number-of-distinct-averages](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2561-number-of-distinct-averages](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2634-minimum-common-value) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3034-points-that-intersect-with-cars](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3034-points-that-intersect-with-cars) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2561-number-of-distinct-averages) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2698-find-the-array-concatenation-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
