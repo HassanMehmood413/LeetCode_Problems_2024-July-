@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0332-reconstruct-itinerary](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0744-network-delay-time) |
@@ -993,4 +995,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0023-merge-k-sorted-lists) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
