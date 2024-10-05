@@ -47,7 +47,6 @@ var findKthLargest = function (nums, k) {
     for (let i = 0; i < k; i++) {
         pq.enqueue(nums[i])
     }
-    let arr = []
     for (let i = pq.size(); i < nums.length; i++) {
         if (nums[i] >= pq.front()) {
             let a = pq.dequeue()
