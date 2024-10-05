@@ -26,9 +26,10 @@ var checkInclusion = function (s1, s2) {
             f2.set(cout, f2.get(cout) - 1)
         }
         let cin = s2[i]
-        f2.set(cin, (f2.get(cin) || 0) + 1)
+        f2.set(cin, (f2.get(cin) || 0) +
+            1)
 
-        if(Equal(f1,f2)) return true
+        if (Equal(f1, f2)) return true
 
     }
     return false
