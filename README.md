@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0169-majority-element) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0392-is-subsequence) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0200-number-of-islands) |
