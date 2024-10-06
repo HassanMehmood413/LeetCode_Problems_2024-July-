@@ -20,14 +20,13 @@ var pathSum = function (root, targetSum) {
         // console.log(arr)
         if (root.left == null && root.right == null && sum == targetSum) {
             overall.push([...arr])
-            console.log(overall)
         }
         else {
             dfs(root.left, sum, arr)
             dfs(root.right, sum, arr)
         }
         arr.pop()
-        sum = sum - [sum[sum.length - 1]]
+        // sum = sum - [sum[sum.length - 1]]
 
     }
     dfs(root, 0, [])
