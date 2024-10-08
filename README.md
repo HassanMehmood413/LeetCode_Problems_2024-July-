@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0328-odd-even-linked-list) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0202-happy-number) |
