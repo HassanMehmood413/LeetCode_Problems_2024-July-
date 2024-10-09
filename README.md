@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1046-max-consecutive-ones-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1023-time-based-key-value-store](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1023-time-based-key-value-store) |
 | [1319-unique-number-of-occurrences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1023-time-based-key-value-store](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1023-time-based-key-value-store) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0859-design-circular-deque) |
+| [1023-time-based-key-value-store](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
 |  |
 | ------- |
