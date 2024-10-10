@@ -1,47 +1,57 @@
 class Twitter:
 
     def __init__(self):
-        self.time = 0  # Keeps track of the time for ordering tweets
-        self.following = defaultdict(set)  # Tracks who follows whom
-        self.tweet = defaultdict(list)  # Tracks tweets for each user (timestamp, tweetId)
+        self.count = 0
+        self.following = defaultdict(set)
+        self.tweet = defaultdict(list)
 
     def postTweet(self, userId: int, tweetId: int) -> None:
-        # Add the tweet with the current time (negative for max-heap behavior in min-heap)
-        self.tweet[userId].append((self.time, tweetId))
-        self.time -= 1  # Decrease time to ensure proper ordering
+        self.tweet[userId].append((self.count, tweetId))
+        self.count -= 1
 
     def getNewsFeed(self, userId: int) -> List[int]:
         res = []
-        MinHeap = []
 
-        # Include the user's own tweets in the feed
+        minHeap = []
+
+        # Include user's tweets
         if userId in self.tweet:
             index = len(self.tweet[userId]) - 1
-            time, tweetId = self.tweet[userId][index]
-            heapq.heappush(MinHeap, (time, tweetId, userId, index - 1))
+            if index >= 0:  # Ensure index is valid
+                count, tweet = self.tweet[userId][index]
+                heapq.heappush(minHeap, (count, userId, index - 1, tweet))
 
-        # Include tweets from followed users in the feed
+        # Include tweets from followed users
         for followerId in self.following[userId]:
             if followerId in self.tweet and len(self.tweet[followerId]) > 0:
                 index = len(self.tweet[followerId]) - 1
-                time, tweetId = self.tweet[followerId][index]
-                heapq.heappush(MinHeap, (time, tweetId, followerId, index - 1))
+                if index >= 0:  # Ensure index is valid
+                    count, tweet = self.tweet[followerId][index]
+                    heapq.heappush(minHeap, (count, followerId, index - 1, tweet))
 
         # Extract up to 10 most recent tweets
-        while MinHeap and len(res) < 10:
-            time, tweetId, followerId, index = heapq.heappop(MinHeap)
-            res.append(tweetId)
+        while minHeap and len(res) < 10:
+            count, followerId, index, tweet = heapq.heappop(minHeap)
+            res.append(tweet)
             if index >= 0:
                 time, tweetId = self.tweet[followerId][index]
-                heapq.heappush(MinHeap, (time, tweetId, followerId, index - 1))
+                heapq.heappush(
+                    minHeap, (time, followerId, index - 1, tweetId)
+                )  # Correct the order of arguments
 
         return res
 
     def follow(self, followerId: int, followeeId: int) -> None:
-        # Add the followee to the follower's set of followed users
         self.following[followerId].add(followeeId)
 
     def unfollow(self, followerId: int, followeeId: int) -> None:
-        # Remove the followee if they are being followed
         if followeeId in self.following[followerId]:
             self.following[followerId].remove(followeeId)
+
+
+# Your Twitter object will be instantiated and called as such:
+# obj = Twitter()
+# obj.postTweet(userId,tweetId)
+# param_2 = obj.getNewsFeed(userId)
+# obj.follow(followerId,followeeId)
+# obj.unfollow(followerId,followeeId)
