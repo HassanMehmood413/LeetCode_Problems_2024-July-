@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0053-maximum-subarray) |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0113-path-sum-ii) |
