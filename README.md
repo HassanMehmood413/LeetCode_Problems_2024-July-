@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0214-shortest-palindrome) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0113-path-sum-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0357-count-numbers-with-unique-digits) |
@@ -922,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0240-search-a-2d-matrix-ii) |
