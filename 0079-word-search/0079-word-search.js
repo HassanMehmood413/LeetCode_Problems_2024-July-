@@ -27,7 +27,7 @@ var exist = function (board, word) {
 
     for (let i = 0; i < rows; i++) {
         for (let j = 0; j < cols; j++) {
-            if (board[i][j] === word[0] && dfs(i, j, 0, board, word)) {
+            if (dfs(i, j, 0, board, word)) {
                 return true
             }
         }
