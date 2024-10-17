@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0794-swim-in-rising-water](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0794-swim-in-rising-water) |
 | [0859-design-circular-deque](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0859-design-circular-deque) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0650-2-keys-keyboard) |
+| [0747-min-cost-climbing-stairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1063-best-sightseeing-pair) |
