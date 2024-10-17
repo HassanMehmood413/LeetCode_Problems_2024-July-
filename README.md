@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2035-count-sub-islands](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2035-count-sub-islands) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2102-find-the-middle-index-in-array) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2035-count-sub-islands](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2035-count-sub-islands) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2035-count-sub-islands](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2035-count-sub-islands) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Sliding Window
@@ -957,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2035-count-sub-islands](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -983,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0794-swim-in-rising-water) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1706-min-cost-to-connect-all-points) |
+| [2035-count-sub-islands](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2035-count-sub-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
