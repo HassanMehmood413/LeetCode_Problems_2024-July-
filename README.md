@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0239-sliding-window-maximum) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0213-house-robber-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0435-non-overlapping-intervals) |
