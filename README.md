@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0018-4sum) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0049-group-anagrams) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0055-jump-game) |
