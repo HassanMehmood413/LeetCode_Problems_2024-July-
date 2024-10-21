@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0113-path-sum-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0357-count-numbers-with-unique-digits) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Number Theory
 |  |
 | ------- |
