@@ -12,68 +12,28 @@
  * @return {number}
  */
 var kthLargestLevelSum = function (root, k) {
-    // Using BFS
-
-    // let queue = [root]
-    // let arr = []
-    // while (queue.length > 0) {
-    //     let length = queue.length
-    //     let sum = 0
-    //     for (let i = 0; i < length; i++) {
-    //         let first = queue.shift()
-    //         sum = sum + first.val
-    //         if (first.left != null) {
-    //             queue.push(first.left)
-    //         }
-    //         if (first.right != null) {
-    //             queue.push(first.right)
-    //         }
-    //     }
-    //     arr.push(sum)
-    // }
-    // arr.sort((a,b)=>b-a)
-    // if(arr.length >= k){
-    //     return arr[k-1]
-    // }
-    // else{
-    //     return -1
-    // }
-
-    // Using DFS
-    let stack = [root];
-    let arr = [];
-
-    while (stack.length > 0) {
-        let length = stack.length;
-        let sum = 0;
-
-        // Temporary array to hold nodes for the next level
-        let tempStack = [];
-
+    let arr = [root.val]
+    let queue = [root]
+    while (queue.length > 0) {
+        let sum = 0
+        let length = queue.length
         for (let i = 0; i < length; i++) {
-            let node = stack.pop(); 
-            sum += node.val;
-            if (node.left) {
-                tempStack.push(node.left);
+            let first = queue.shift()
+            sum = sum + first.val
+            if (first.left != null) {
+                queue.push(first.left)
             }
-            if (node.right) {
-                tempStack.push(node.right);
+            if (first.right != null) {
+                queue.push(first.right)
             }
         }
-
-        arr.push(sum);
-
-        // After processing the current level, push all nodes in tempStack
-        // back to the main stack in the order they should be processed
-        stack = tempStack;
+        arr.push(sum)
     }
-
-    arr.sort((a, b) => b - a);
+    arr.sort((a, b) => b - a)
     if (arr.length >= k) {
         return arr[k - 1]
     }
-    else {
+    else{
         return -1
     }
-
 };
