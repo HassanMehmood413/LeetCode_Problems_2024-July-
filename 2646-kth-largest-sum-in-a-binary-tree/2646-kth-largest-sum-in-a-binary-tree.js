@@ -12,7 +12,7 @@
  * @return {number}
  */
 var kthLargestLevelSum = function (root, k) {
-    let arr = [root.val]
+    let arr = []
     let queue = [root]
     while (queue.length > 0) {
         let sum = 0
