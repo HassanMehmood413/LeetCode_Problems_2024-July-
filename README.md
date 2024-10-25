@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0621-task-scheduler) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0539-minimum-time-difference) |
@@ -915,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0713-subarray-product-less-than-k) |
