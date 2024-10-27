@@ -4,7 +4,6 @@
  */
 var countSquares = function (matrix) {
     let dp = Array.from({ length: matrix.length }, () => Array(matrix[0].length).fill(0))
-    let max = 0
     let sum = 0
     for (let i = 0; i < matrix.length; i++) {
         for (let j = 0; j < matrix[0].length; j++) {
@@ -16,7 +15,6 @@ var countSquares = function (matrix) {
                 else {
                     dp[i][j] = Math.min(dp[i - 1][j], dp[i][j - 1], dp[i - 1][j - 1]) + 1
                 }
-                max = Math.max(dp[i][j], max)
             }
         }
     }
