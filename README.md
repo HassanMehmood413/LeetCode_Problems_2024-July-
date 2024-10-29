@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2727-number-of-senior-citizens) |
 | [2728-sum-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2756-buy-two-chocolates) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2836-neither-minimum-nor-maximum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2530-minimize-maximum-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2530-minimize-maximum-of-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Greedy
 |  |
@@ -1019,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2728-sum-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2728-sum-in-a-matrix) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## String Matching
 |  |
 | ------- |
