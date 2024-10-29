@@ -3,8 +3,8 @@
  * @return {number}
  */
 var maxMoves = function (grid) {
+    // dfs + cache + backtracking
     let every = Array.from({ length: grid.length }, () => Array(grid[0].length).fill(-1));
-
     var dfs = function (start, end) {
         if (every[start][end] != -1) return every[start][end]
         maxmoves = 0
