@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0380-insert-delete-getrandom-o1) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0424-longest-repeating-character-replacement) |
