@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0539-minimum-time-difference) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0747-min-cost-climbing-stairs) |
@@ -992,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0113-path-sum-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0357-count-numbers-with-unique-digits) |
+| [0494-target-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Number Theory
 |  |
