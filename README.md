@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0091-decode-ways) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0121-best-time-to-buy-and-sell-stock) |
