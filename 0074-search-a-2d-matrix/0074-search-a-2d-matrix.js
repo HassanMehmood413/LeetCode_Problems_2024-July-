@@ -23,21 +23,37 @@ var searchMatrix = function (matrix, target) {
 
 
     // Both have 0(m*n) Complexity:
-    let row = 0
-    let col = matrix[0].length - 1
-    while (row <= matrix.length - 1 && col >= 0) {
-        let el = matrix[row][col]
-        if (el == target) {
+    // let row = 0
+    // let col = matrix[0].length - 1
+    // while (row <= matrix.length - 1 && col >= 0) {
+    //     let el = matrix[row][col]
+    //     if (el == target) {
+    //         return true
+    //     }
+    //     else if (el > target) {
+    //         col--
+    //     }
+    //     else if (el < target) {
+    //         row++
+    //     }
+    // }
+    // return false
+
+
+
+    let matrix2 = matrix.flat()
+    let left = 0
+    let right = matrix2.length
+    while (left <= right) {
+        if (matrix2[left] == target) {
             return true
         }
-        else if (el > target) {
-            col--
+        if (matrix2[right] == target) {
+            return true
         }
-        else if (el < target) {
-            row++
-        }
+        left++
+        right--
     }
     return false
-
 
 }
