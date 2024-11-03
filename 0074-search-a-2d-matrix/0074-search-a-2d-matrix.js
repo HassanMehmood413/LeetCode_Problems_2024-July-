@@ -4,6 +4,25 @@
  * @return {boolean}
  */
 var searchMatrix = function (matrix, target) {
+    let rows = matrix.length
+    let cols = matrix[0].length
+    let left = 0
+    let right = rows * cols-1
+    while (left <= right) {
+        let middle = Math.floor((left + right) / 2)
+        let row = Math.floor(middle / cols)
+        let col = Math.floor(middle % cols)
+        let a = matrix[row][col]
+        if (a == target) return true
+        else if (a > target) right = middle - 1
+        else left = middle + 1
+    }
+    return false
+
+
+
+
+
     // let arr = matrix.flat()
     // let left = 0
     // let right = arr.length - 1
@@ -41,19 +60,5 @@ var searchMatrix = function (matrix, target) {
 
 
 
-    let matrix2 = matrix.flat()
-    let left = 0
-    let right = matrix2.length
-    while (left <= right) {
-        if (matrix2[left] == target) {
-            return true
-        }
-        if (matrix2[right] == target) {
-            return true
-        }
-        left++
-        right--
-    }
-    return false
 
 }
