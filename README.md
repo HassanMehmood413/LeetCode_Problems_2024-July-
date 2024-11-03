@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0416-partition-equal-subset-sum) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0404-sum-of-left-leaves) |
@@ -920,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0513-find-bottom-left-tree-value) |
@@ -1022,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0542-01-matrix) |
@@ -1080,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1236-n-th-tribonacci-number) |
 ## Queue
@@ -1137,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0684-redundant-connection) |
@@ -1148,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
