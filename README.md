@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0071-simplify-path) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0055-jump-game) |
@@ -1126,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0143-reorder-list) |
