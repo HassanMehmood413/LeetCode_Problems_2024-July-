@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0287-find-the-duplicate-number) |
+| [0473-matchsticks-to-square](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1435-xor-queries-of-a-subarray) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0503-next-greater-element-ii) |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0542-01-matrix) |
@@ -1019,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0113-path-sum-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0357-count-numbers-with-unique-digits) |
+| [0473-matchsticks-to-square](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Number Theory
@@ -1201,4 +1205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0146-lru-cache) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
