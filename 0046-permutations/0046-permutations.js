@@ -10,7 +10,7 @@ var permute = function (nums) {
             return
         }
         for (let i of nums) {
-            if(arr.includes(i)){
+            if (arr.includes(i)) {
                 continue
             }
             arr.push(i)
