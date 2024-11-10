@@ -4,30 +4,22 @@
  */
 var permuteUnique = function (nums) {
     let res = []
-    let set = new Set()
-    nums.sort((a, b) => a - b)
-    var again = function (nums, arr, res, set) {
+    nums = nums.sort()
+    var again = function (arr, res, map) {
         if (arr.length == nums.length) {
             res.push([...arr])
             return
         }
         for (let i = 0; i < nums.length; i++) {
-            if (nums[i] == nums[i - 1] && !set.has(i - 1)) {
-                continue
-            }
-            if (set.has(i)) {
-                continue
-            }
-
+            if (i > 0 && nums[i] == nums[i - 1] && !map.has(i - 1)) continue
+            if (map.has(i)) continue
             arr.push(nums[i])
-            set.add(i)
-            console.log(arr)
-            again(nums, arr, res, set)
+            map.add(i)
+            again(arr, res, map)
             arr.pop()
-            set.delete(i)
+            map.delete(i)
         }
-
     }
-    again(nums, [], res, set)
+    again([], res, new Set())
     return res
 };
