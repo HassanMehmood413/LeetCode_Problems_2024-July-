@@ -36,5 +36,4 @@ var insertIntoBST = function (root, val) {
             return root
         }
     }
-    return root
 };
