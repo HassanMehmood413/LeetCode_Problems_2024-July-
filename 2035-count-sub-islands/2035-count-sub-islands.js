@@ -7,7 +7,7 @@ var countSubIslands = function (grid1, grid2) {
 
     var dfs = function (start, end, grid1, grid2) {
         let queue = []
-        grid2[start][end] = 0
+        // grid2[start][end] = 0
         queue.push([start, end])
         let is = true
         while (queue.length > 0) {
