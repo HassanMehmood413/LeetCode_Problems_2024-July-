@@ -17,7 +17,6 @@ var tree2str = function (root) {
         str = `${root.val}`
         if (root.left || root.right) {
             str = str + `(${again(root.left)})`
-            console.log(str)
         }
         if (root.right) {
             str = str + `(${again(root.right)})`
