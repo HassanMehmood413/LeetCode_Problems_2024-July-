@@ -4,36 +4,34 @@
  * @return {number}
  */
 var countSubIslands = function (grid1, grid2) {
-    let row = grid1.length
-    let col = grid1[0].length
-    let count = 0
-    var bfs = function (start, end, grid1, grid2) {
+
+    var dfs = function (start, end, grid1, grid2) {
         let queue = []
-        let issub = true
+        grid2[start][end] = 0
         queue.push([start, end])
+        let is = true
         while (queue.length > 0) {
             let [first, second] = queue.shift()
-            if (grid1[first][second] == 0) {
-                issub = false
-            }
-            grid2[first][second] = 0
-
-            for (let [a, b] of [[-1, 0], [1, 0], [0, -1], [0, 1]]) {
-                let x = a + first
-                let y = b + second
-
-                if (x >= 0 && y >= 0 && x < row && y < col && grid2[x][y] == 1) {
+            if (grid1[first][second] == 0) is = false
+            for (let [i, j] of [[-1, 0], [0, -1], [1, 0], [0, 1]]) {
+                let x = first + i
+                let y = second + j
+                if (x >= 0 && y >= 0 && x < grid2.length && y < grid2[0].length && grid2[x][y] == 1) {
                     queue.push([x, y])
                     grid2[x][y] = 0
                 }
             }
         }
-        return issub
+        return is
+
     }
-    for (let i = 0; i < row; i++) {
-        for (let j = 0; j < col; j++) {
+
+
+    let count = 0
+    for (let i = 0; i < grid2.length; i++) {
+        for (let j = 0; j < grid2[0].length; j++) {
             if (grid2[i][j] == 1) {
-                if (bfs(i, j, grid1, grid2)) {
+                if (dfs(i, j, grid1, grid2)) {
                     count++
                 }
             }
