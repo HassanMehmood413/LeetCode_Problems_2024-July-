@@ -3,8 +3,8 @@
  * @return {number}
  */
 var orangesRotting = function (grid) {
-    let queue = []
     let fresh = 0
+    let queue = []
     let min = 0
     for (let i = 0; i < grid.length; i++) {
         for (let j = 0; j < grid[0].length; j++) {
@@ -20,20 +20,18 @@ var orangesRotting = function (grid) {
         let length = queue.length
         for (let i = 0; i < length; i++) {
             let [first, second] = queue.shift()
-            for (let [x, y] of [[-1, 0], [0, -1], [1, 0], [0, 1]]) {
+            for (let [x, y] of [[-1, 0], [0, -1], [0, 1], [1, 0]]) {
                 let a = x + first
                 let b = y + second
 
                 if (a >= 0 && b >= 0 && a < grid.length && b < grid[0].length && grid[a][b] == 1) {
+                    fresh--
                     queue.push([a, b])
                     grid[a][b] = 2
-                    fresh--
                 }
             }
         }
         min++
     }
-
-
     return fresh == 0 ? min : -1
 };
