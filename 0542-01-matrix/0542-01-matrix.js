@@ -4,12 +4,14 @@
  */
 var updateMatrix = function (mat) {
     let queue = []
-    let distance = new Array(mat.length)
-    for (let i = 0; i < mat.length; i++) {
-        distance[i] = new Array(mat[0].length).fill(Infinity)
+    let row = mat.length
+    let col = mat[0].length
+    let distance = new Array(row)
+    for (let i = 0; i < row; i++) {
+        distance[i] = new Array(col).fill(Infinity)
     }
-    for (let i = 0; i < mat.length; i++) {
-        for (let j = 0; j < mat[0].length; j++) {
+    for (let i = 0; i < row; i++) {
+        for (let j = 0; j < col; j++) {
             if (mat[i][j] == 0) {
                 queue.push([i, j])
                 distance[i][j] = 0
@@ -23,12 +25,11 @@ var updateMatrix = function (mat) {
             let a = x + first
             let b = y + second
 
-            if (a >= 0 && b >= 0 && a < mat.length && b < mat[0].length && distance[a][b] == Infinity) {
+            if (a >= 0 && b >= 0 && a < row && b < col && distance[a][b] == Infinity) {
                 queue.push([a, b])
                 distance[a][b] = distance[first][second] + 1
             }
         }
-
     }
     return distance
 };
