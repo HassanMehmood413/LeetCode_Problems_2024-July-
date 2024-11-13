@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2634-minimum-common-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2698-find-the-array-concatenation-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2698-find-the-array-concatenation-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2727-number-of-senior-citizens) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2728-sum-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2836-neither-minimum-nor-maximum) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2698-find-the-array-concatenation-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3195-separate-black-and-white-balls) |
