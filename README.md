@@ -671,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0072-edit-distance) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0055-jump-game) |
@@ -1041,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0047-permutations-ii) |
