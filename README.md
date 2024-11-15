@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0735-asteroid-collision) |
@@ -907,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0874-backspace-string-compare) |
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0776-n-ary-tree-postorder-traversal) |
