@@ -743,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0355-design-twitter) |
@@ -1017,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0654-maximum-binary-tree) |
@@ -1137,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0859-design-circular-deque) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
