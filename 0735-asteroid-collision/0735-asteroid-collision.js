@@ -6,12 +6,13 @@ var asteroidCollision = function (asteroids) {
     let stack = []
     for (let i = 0; i < asteroids.length; i++) {
         // for same
-        if (stack[stack.length - 1] == asteroids[i]) {
-            stack.pop()
-        }
-        else if (stack[stack.length - 1] > 0 && asteroids[i] > 0) {
+        if (stack.length == 0) {
             stack.push(asteroids[i])
         }
+        else if (stack[stack.length - 1] == asteroids[i]) {
+            stack.pop()
+        }
+
         else if (stack[stack.length - 1] < 0 && asteroids[i] > 0) {
             stack.push(asteroids[i])
         }
@@ -33,6 +34,9 @@ var asteroidCollision = function (asteroids) {
                     break
                 }
             }
+        }
+        else if (stack[stack.length - 1] > 0 && asteroids[i] > 0) {
+            stack.push(asteroids[i])
         }
         else {
             stack.push(asteroids[i])
