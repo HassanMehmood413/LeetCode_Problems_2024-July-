@@ -9,10 +9,6 @@ var asteroidCollision = function (asteroids) {
         if (stack.length == 0) {
             stack.push(asteroids[i])
         }
-        else if (stack[stack.length - 1] == asteroids[i]) {
-            stack.pop()
-        }
-
         else if (stack[stack.length - 1] < 0 && asteroids[i] > 0) {
             stack.push(asteroids[i])
         }
