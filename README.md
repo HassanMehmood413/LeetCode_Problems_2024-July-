@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2530-minimize-maximum-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2530-minimize-maximum-of-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-number-of-distinct-averages](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-number-of-distinct-averages](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1012,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Stack
