@@ -22,5 +22,4 @@ var nextPermutation = function (nums) {
         right--
     }
     return nums
-
 };
