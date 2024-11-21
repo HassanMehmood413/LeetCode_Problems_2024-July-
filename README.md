@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2388-replace-elements-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2388-replace-elements-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2388-replace-elements-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2470-removing-stars-from-a-string) |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2428-equal-row-and-column-pairs) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2631-sort-the-students-by-their-kth-score) |
