@@ -15,7 +15,6 @@ var maxEqualRowsAfterFlips = function (matrix) {
     }
     let count = 0
     for (let [value, index] of map) {
-        console.log(value,index)
         if (index > count) {
             count = Math.max(count, index)
         }
