@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0202-happy-number) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0091-decode-ways) |
@@ -1279,5 +1281,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0062-unique-paths) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2696-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
