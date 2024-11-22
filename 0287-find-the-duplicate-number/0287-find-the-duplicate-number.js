@@ -9,13 +9,12 @@ var findDuplicate = function (nums) {
             map.set(value, map.get(value) + 1)
         }
         else {
-            map.set(value, 1)
+            map.set(value, 0)
         }
     })
-    for (let [key, value] of map) {
-        if (value > 1) {
-            return key
+    for(let [value,index] of map){
+        if(index > 0){
+            return value
         }
     }
-
 };
