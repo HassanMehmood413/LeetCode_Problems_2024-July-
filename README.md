@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1063-best-sightseeing-pair](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1127-last-stone-weight) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1306-minimum-absolute-difference) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1023-time-based-key-value-store](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1023-time-based-key-value-store) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -1106,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
