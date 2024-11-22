@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0355-design-twitter) |
@@ -1204,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2573-remove-nodes-from-linked-list) |
