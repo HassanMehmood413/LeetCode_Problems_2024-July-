@@ -12,13 +12,12 @@ var majorityElement = function (nums) {
             map.set(value, 1)
         }
     })
-    let max = -Infinity
-    let index = 0
-    for (let [key, value] of map) {
-        if (value > max) {
+    let max = 0
+    let length = nums.length
+    for (let [value, index] of map) {
+        if (index > (length / 2)) {
             max = value
-            index = key
         }
     }
-    return index
+    return max
 };
