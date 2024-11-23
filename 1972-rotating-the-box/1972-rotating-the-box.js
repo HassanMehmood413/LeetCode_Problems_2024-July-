@@ -3,6 +3,7 @@
  * @return {character[][]}
  */
 var rotateTheBox = function (box) {
+    // My Swaping O(n×m^2)
     // for (let i = 0; i < box.length; i++) {
     //     let l = 1
     //     while (l <= box[0].length) {
@@ -13,6 +14,8 @@ var rotateTheBox = function (box) {
     //         l++
     //     }
     // }
+
+    // Space and Time: 0(n * m)
     for (let i = 0; i < box.length; i++) {
         let l = 1;
         while (l < box[i].length) {
@@ -24,12 +27,14 @@ var rotateTheBox = function (box) {
             }
         }
     }
-    let res = Array.from({ length: box[0].length }, () => []); // Pre-allocate result array
-    for (let i = 0; i < box.length; i++) {
-        for (let j = 0; j < box[i].length; j++) {
-            res[j][box.length - i - 1] = box[i][j]; // Rotate 90° clockwise
+    let res = []
+    for (let i = 0; i < box[0].length; i++) {
+        let arr = []
+        for (let j = 0; j < box.length; j++) {
+            arr.push(box[j][i])
         }
-
+        arr.reverse()
+        res.push(arr)
     }
     return res
 };
