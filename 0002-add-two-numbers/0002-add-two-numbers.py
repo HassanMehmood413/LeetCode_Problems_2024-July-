@@ -9,16 +9,22 @@ class Solution:
         list2 = l2
         carry = 0
         dummy = ListNode()
-        tail = dummy
-        sums = 0
+        temp = dummy
+        sums = 0 
+
         while list1 or list2 or carry:
             first = list1.val if list1 else 0
-            second = list2.val if list2 else 0
-            sums = first + second + carry
-            carry = sums // 10
-            sums = sums % 10
-            tail.next = ListNode(sums)
-            tail = tail.next
-            list1= list1.next if list1 else None
+            second= list2.val if list2 else 0
+            sums = first + second + carry # 7 ,10,8
+            carry = sums // 10 # 0 , 1,0
+            sums = sums % 10 # 7,0,8
+            temp.next = ListNode(sums) # 7,0,8
+            temp = temp.next
+            list1 = list1.next if list1 else None
             list2 = list2.next if list2 else None
         return dummy.next
+
+
+
+
+
