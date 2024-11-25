@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0787-sliding-puzzle](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0794-swim-in-rising-water) |
 | [0859-design-circular-deque](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0787-sliding-puzzle](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1036-rotting-oranges) |
@@ -1123,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0695-max-area-of-island) |
+| [0787-sliding-puzzle](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0794-swim-in-rising-water) |
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0898-transpose-matrix) |
