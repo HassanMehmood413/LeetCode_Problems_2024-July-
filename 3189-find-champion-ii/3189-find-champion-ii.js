@@ -27,7 +27,6 @@ var findChampion = function (n, edges) {
             ans.push(i)
         }
     }
-    console.log(queue,ans)
 
 
 
@@ -43,7 +42,6 @@ var findChampion = function (n, edges) {
         }
 
     }
-    console.log(res,ans)
     if (ans.length > 1) {
         return -1
     }
