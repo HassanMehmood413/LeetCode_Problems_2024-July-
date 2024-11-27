@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3055-maximum-odd-binary-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3055-maximum-odd-binary-number) |
 | [3373-maximum-prime-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3373-maximum-prime-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3055-maximum-odd-binary-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3055-maximum-odd-binary-number) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3195-separate-black-and-white-balls) |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2530-minimize-maximum-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2530-minimize-maximum-of-array) |
+| [3055-maximum-odd-binary-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
