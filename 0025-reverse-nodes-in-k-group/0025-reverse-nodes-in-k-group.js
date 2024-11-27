@@ -11,52 +11,50 @@
  * @return {ListNode}
  */
 var reverseKGroup = function (head, k) {
-    let arr = []
-    let temp = []
-    let dummy = new ListNode()
-    let prev = dummy
-    let current = head
-
-    // Traverse the linked list and store values in the array
-    while (current != null) {
-        arr.push(current.val)
-        current = current.next
-    }
-
-    // Function to create new nodes from the temp array
-    var list = function (temp, prev) {
-        temp = temp.reverse()
-        for (let i = 0; i < temp.length; i++) {
-            prev.next = new ListNode(temp[i])
-            prev = prev.next
+    let temp = head
+    let prevlast = null
+    while (temp != null) {
+        let kthNode = getkthNode(temp, k)
+        if (kthNode == null) {
+            if (prevlast) {
+                prevlast.next = temp
+            }
+            break
         }
-        return prev
-    }
 
-    // Iterate over the array in chunks of k
-    for (let i = 0; i < arr.length; i++) {
-        temp.push(arr[i])
+        let nextNode = kthNode.next
+        kthNode.next = null
 
-        if (temp.length == k) {
-            prev = list(temp, prev)  // Update `prev` to point to the last node in the list
-            temp = []  // Reset the temp array for the next chunk
+        reverselist(temp)
+
+        if (temp == head) {
+            head = kthNode
         }
-    }
-    var leftover = function (temp, prev) {
-        for (let i = 0; i < temp.length; i++){
-            prev.next = new ListNode(temp[i])
-            prev = prev.next
+        else {
+            prevlast.next = kthNode
         }
-        return prev
+        prevlast = temp
+        temp = nextNode
     }
+    return head
 
-    // If there are leftover elements in temp, process them
-    if (temp.length > 0) {
-        prev = leftover(temp, prev)
+}
+function getkthNode(temp, k) {
+    k = k - 1
+    while (temp !== null && k > 0) {
+        temp = temp.next
+        k--
     }
-
-    return dummy.next
-
-
-
-};
+    return temp
+}
+function reverselist(temp) {
+    let curr = temp
+    let prev = null
+    while (curr != null) {
+        let t = curr.next
+        curr.next = prev
+        prev = curr
+        curr = t
+    }
+    return prev
+}
