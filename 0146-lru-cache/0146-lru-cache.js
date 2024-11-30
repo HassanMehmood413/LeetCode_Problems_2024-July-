@@ -9,9 +9,10 @@ class Node {
     constructor(key, val) {
         this.key = key
         this.val = val
-        this.prev = this.next = this.null
+        this.prev = this.next = null
     }
 }
+
 
 var LRUCache = function (capacity) {
     this.map = new Map()
@@ -37,26 +38,30 @@ LRUCache.prototype.put = function (key, value) {
     if (this.map.has(key)) {
         this.remove(this.map.get(key))
     }
-    let u = new Node(key, value)
-    this.map.set(key, u)
-    this.insert(u)
+    let node = new Node(key, value)
+    this.map.set(key, node)
+    this.insert(node)
+
     if (this.map.size > this.cap) {
-        let lru = this.right.prev
-        this.remove(lru)
-        this.map.delete(lru.key)
+        let l = this.right.prev
+        this.remove(l)
+        this.map.delete(l.key)
     }
 };
 
-LRUCache.prototype.remove = function (node) {
-    node.prev.next = node.next
-    node.next.prev = node.prev
-}
+
 LRUCache.prototype.insert = function (node) {
     node.prev = this.left
     node.next = this.left.next
     this.left.next.prev = node
     this.left.next = node
 }
+
+LRUCache.prototype.remove = function (node) {
+    node.prev.next = node.next
+    node.next.prev = node.prev
+}
+
 
 
 /** 
