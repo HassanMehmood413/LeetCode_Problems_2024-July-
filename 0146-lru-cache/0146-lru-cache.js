@@ -1,68 +1,67 @@
+/**
+    * @return {void}
+    * @return {number}
+    * @param {number} capacity
+    * @param {number} key
+    * @param {number} value
+ */
 class Node {
     constructor(key, val) {
         this.key = key
         this.val = val
-        this.prev = this.next = null
+        this.prev = this.next = this.null
     }
 }
 
-class LRUCache {
+var LRUCache = function (capacity) {
+    this.map = new Map()
+    this.left = new Node(0, 0)
+    this.right = new Node(0, 0)
+    this.cap = capacity
+    this.left.next = this.right
+    this.right.prev = this.left
+};
 
-    constructor(capacity) {
-        this.map = new Map()
-        this.left = new Node(0, 0)
-        this.right = new Node(0, 0)
-        this.cap = capacity
-        this.left.next = this.right
-        this.right.prev = this.left
+LRUCache.prototype.get = function (key) {
+    if (this.map.has(key)) {
+        let u = this.map.get(key)
+        this.remove(u)
+        this.insert(u)
+        return u.val
     }
+    return -1
+};
 
-    /** 
-     * @param {number} key
-     * @return {number}
-     */
-    insert(node) {
-        node.prev = this.left
-        node.next = this.left.next
-        this.left.next.prev = node
-        this.left.next = node
+
+LRUCache.prototype.put = function (key, value) {
+    if (this.map.has(key)) {
+        this.remove(this.map.get(key))
     }
-    remove(node) {
-        node.prev.next = node.next
-        node.next.prev = node.prev
+    let u = new Node(key, value)
+    this.map.set(key, u)
+    this.insert(u)
+    if (this.map.size > this.cap) {
+        let lru = this.right.prev
+        this.remove(lru)
+        this.map.delete(lru.key)
     }
+};
 
-    get(key) {
-        if (this.map.has(key)) {
-            const u = this.map.get(key)
-            this.remove(u)
-            this.insert(u)
-            return u.val
-        }
-        return -1
-    }
-
-    /** 
-     * @param {number} key 
-     * @param {number} value
-     * @return {void}
-     */
-    put(key, value) {
-        if (this.map.has(key)) {
-            this.remove(this.map.get(key))
-        }
-        const v = new Node(key, value)
-        this.map.set(key, v)
-        this.insert(v)
-
-        if (this.map.size > this.cap) {
-            const lru = this.right.prev
-            this.remove(lru)
-            this.map.delete(lru.key)
-        }
-
-
-    }
+LRUCache.prototype.remove = function (node) {
+    node.prev.next = node.next
+    node.next.prev = node.prev
+}
+LRUCache.prototype.insert = function (node) {
+    node.prev = this.left
+    node.next = this.left.next
+    this.left.next.prev = node
+    this.left.next = node
 }
 
 
+/** 
+ * Your LRUCache object will be instantiated and called as such:
+ * var obj = new LRUCache(capacity)
+ * var param_1 = obj.get(key)
+ * obj.put(key,value)
+ */
