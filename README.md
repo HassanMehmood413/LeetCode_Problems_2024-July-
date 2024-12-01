@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0382-linked-list-random-node) |
+| [0460-lfu-cache](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0908-middle-of-the-linked-list) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0460-lfu-cache](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0621-task-scheduler) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0937-online-stock-span) |
@@ -1327,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0460-lfu-cache) |
 ## Bitmask
 |  |
 | ------- |
