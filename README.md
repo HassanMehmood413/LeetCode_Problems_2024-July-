@@ -654,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0908-middle-of-the-linked-list) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -1186,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Union Find
 |  |
