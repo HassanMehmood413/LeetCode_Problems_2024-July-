@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0794-swim-in-rising-water) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0624-maximum-distance-in-arrays) |
