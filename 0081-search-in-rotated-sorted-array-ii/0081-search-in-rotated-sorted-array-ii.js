@@ -15,12 +15,12 @@ var search = function (nums, target) {
             left++;
             right--;
         }
-        if (nums[0] <= nums[mid]) {
+        if (nums[left] <= nums[mid]) {
             if (nums[mid] == target) {
                 return true
             }
 
-            else if (nums[0] <= target && target <= nums[mid]) {
+            else if (nums[left] <= target && target <= nums[mid]) {
                 right = mid - 1
             }
             else {
@@ -31,7 +31,7 @@ var search = function (nums, target) {
             if (nums[mid] == target) {
                 return true
             }
-            else if (nums[mid] <= target && target <= nums[right]) {
+            else if (nums[mid] < target && target <= nums[right]) {
                 left = mid + 1
             }
             else {
