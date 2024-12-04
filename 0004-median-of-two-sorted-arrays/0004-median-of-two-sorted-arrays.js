@@ -18,7 +18,7 @@ var findMedianSortedArrays = function (nums1, nums2) {
     while (start <= end) {
 
         //Step2: Check the partitions 
-        const partition1 = Math.floor(start + (end - start) / 2);
+        const partition1 = Math.floor((start + end) / 2);
         const partition2 = Math.floor((n + m + 1) / 2) - partition1;
 
         //Step3: Determine the min and max value 
