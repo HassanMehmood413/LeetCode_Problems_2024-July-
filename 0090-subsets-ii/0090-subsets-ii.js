@@ -3,22 +3,24 @@
  * @return {number[][]}
  */
 var subsetsWithDup = function (nums) {
-    nums.sort((a, b) => a - b)
-    let res = []
-    let subset = []
+    let arr = []
+    let set = new Set()
+    nums = nums.sort((a, b) => a - b)
     var again = function (i) {
         if (i >= nums.length) {
-            res.push([...subset])
-            return res
+            let key = JSON.stringify(arr);
+            if (!set.has(key)) {
+                set.add(key)
+            }
+            return
         }
-        subset.push(nums[i])
+
+        arr.push(nums[i])
         again(i + 1)
-        subset.pop()
-        while (i +1 < nums.length && nums[i] == nums[i + 1]) {
-            i++
-        }
+        arr.pop()
         again(i + 1)
     }
     again(0)
-    return res
+    return Array.from(set).map(item => JSON.parse(item));
+
 };
