@@ -5,19 +5,20 @@
  */
 var combinationSum = function (candidates, target) {
     let res = []
-    var again = function (arr, res, sum, start) {
+    var again = function (i, sum, arr) {
         if (sum == target) {
             res.push([...arr])
             return
         }
-        for (let i = start; i < candidates.length; i++) {
-            if (sum + candidates[i] <= target) {
-                arr.push(candidates[i])
-                again(arr, res, sum + candidates[i], i)
+
+        for (let j = i; j < candidates.length; j++) {
+            if (sum + candidates[j] <= target) {
+                arr.push(candidates[j])
+                again(j, sum + candidates[j], arr)
                 arr.pop()
             }
         }
     }
-    again([], res, 0, 0)
+    again(0, 0, [])
     return res
 };
