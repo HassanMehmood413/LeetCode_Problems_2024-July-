@@ -14,8 +14,9 @@ var getPermutation = function (n, k) {
     arr.push(n)
     k = k - 1
     while (arr.length > 0) {
-        ans += String(arr[Math.floor(k / fact)])
-        arr.splice(Math.floor(k / fact), 1)
+        let index = Math.floor(k / fact)
+        ans += String(arr[index])
+        arr.splice(index, 1)
         if (!arr) {
             break
         }
