@@ -4,20 +4,19 @@
  */
 var permute = function (nums) {
     let res = []
-    var again = function (nums, arr, res) {
+    var again = function (start, arr) {
         if (arr.length == nums.length) {
             res.push([...arr])
             return
         }
-        for (let i of nums) {
-            if (arr.includes(i)) {
-                continue
+        for (let i = 0; i < nums.length; i++) {
+            if (!arr.includes(nums[i])) {
+                arr.push(nums[i])
+                again(start + 1, arr)
+                arr.pop()
             }
-            arr.push(i)
-            again(nums, arr, res)
-            arr.pop()
         }
     }
-    again(nums, [], res)
+    again(0, [])
     return res
 };
