@@ -6,7 +6,7 @@
 var getPermutation = function (n, k) {
     let arr = []
     let ans = ''
-    let fact = 1
+    fact = 1
     for (let i = 1; i < n; i++) {
         fact = fact * i
         arr.push(i)
@@ -15,11 +15,9 @@ var getPermutation = function (n, k) {
     k = k - 1
     while (arr.length > 0) {
         let index = Math.floor(k / fact)
-        ans += String(arr[index])
+        ans = ans + String(arr[index])
         arr.splice(index, 1)
-        if (!arr) {
-            break
-        }
+        if (!arr) break
         k = k % fact
         fact = Math.floor(fact / arr.length)
     }
