@@ -6,20 +6,17 @@
 #         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        def again(node, max_val):
+        def again(node,max_val):
             if not node:
                 return 0
+            
 
-            # Check if the current node is "good"
             count = 1 if node.val >= max_val else 0
 
-            # Update the maximum value for the path
-            max_val = max(max_val, node.val)
+            max_val = max(max_val,node.val)  # 4 , 5
 
-            # Recursively count "good" nodes in left and right subtrees
-            count += again(node.left, max_val)
-            count += again(node.right, max_val)
-            
+            count += again(node.left,max_val)
+            count += again(node.right , max_val) # 3
+
             return count
-
-        return again(root, root.val)
+        return again(root,root.val)
