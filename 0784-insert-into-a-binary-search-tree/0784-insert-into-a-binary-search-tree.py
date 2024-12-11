@@ -4,28 +4,34 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
     def insertIntoBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
-        node = TreeNode(val)
+        new_node = TreeNode(val)
         if not root:
-            return node
-
-        curr = root
-        while curr:
-            if val < curr.val:
-                if not curr.left:
-                    curr.left = node
+            return new_node
+        
+        node = root
+        while node:
+            if val > node.val:
+                if not node.right:
+                    node.right = new_node
                     break
                 else:
-                    curr = curr.left
-            elif val > curr.val:
-                if not curr.right:
-                    curr.right = node
+                    node = node.right
+            elif val < node.val:
+                if not node.left:
+                    node.left = new_node
                     break
                 else:
-                    curr = curr.right
+                    node = node.left
             else:
-                # If the value already exists, we do nothing
-                return root
-
+                break
         return root
+        
+            
+
+
+
+
+
