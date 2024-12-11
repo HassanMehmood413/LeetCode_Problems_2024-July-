@@ -11,18 +11,17 @@
  * @return {boolean}
  */
 var isBalanced = function (root) {
-    let is = true
-    const again = (root) => {
+    let isvalid = true
+    var again = function (root) {
         if (!root) return true
-        let left = again(root.left)
-        let right = again(root.right)
-        if (left == -1 || right == -1 || Math.abs(left - right) > 1) {
-            return is = false
-        }
-        return Math.max(left, right) + 1
 
+        let left = again(root.left) 
+        let right = again(root.right)
+        if (Math.abs(right - left) > 1) {
+            isvalid = false
+        }
+        return Math.max(left, right) + 1;
     }
     again(root)
-    return is
-
+    return isvalid
 };
