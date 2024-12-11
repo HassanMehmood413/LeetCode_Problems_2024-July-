@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2836-neither-minimum-nor-maximum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3034-points-that-intersect-with-cars) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2728-sum-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2836-neither-minimum-nor-maximum) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3291-find-if-array-can-be-sorted) |
@@ -1090,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Stack
