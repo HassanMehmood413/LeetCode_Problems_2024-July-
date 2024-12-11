@@ -7,7 +7,9 @@ var totalNQueens = function (n) {
         if (r == n) {
             return 1
         }
-        let count = 0
+
+        let solution = 0
+
         for (let i = 0; i < n; i++) {
             if (col.has(i) || pos.has(r + i) || neg.has(r - i)) {
                 continue
@@ -16,13 +18,13 @@ var totalNQueens = function (n) {
             pos.add(r + i)
             neg.add(r - i)
 
-            count += backtrack(col, pos, neg, r + 1)
+            solution += backtrack(col, pos, neg, r + 1)
 
             col.delete(i)
             pos.delete(r + i)
             neg.delete(r - i)
         }
-        return count
+        return solution
     }
     return backtrack(new Set(), new Set(), new Set(), 0)
 };
