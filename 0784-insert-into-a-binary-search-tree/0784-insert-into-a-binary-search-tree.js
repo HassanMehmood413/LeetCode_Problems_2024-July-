@@ -12,28 +12,30 @@
  * @return {TreeNode}
  */
 var insertIntoBST = function (root, val) {
-    let curr = root
-    let node = new TreeNode(val)
-    if(!root) return node
-    while (curr != null) {
-        if (val < curr.val) {
-            if (curr.left == null) {
-                curr.left = node
+    let node = root
+    let new_node = new TreeNode(val)
+    if (!root) return new_node
+
+    while (node != null) {
+        if (new_node.val > node.val) {
+            if (node.right == null) {
+                node.right = new_node
             }
             else {
-                curr = curr.left
+                node = node.right
             }
         }
-        else if (val > curr.val) {
-            if (curr.right == null) {
-                curr.right = node
+        else if (new_node.val < node.val) {
+            if (node.left == null) {
+                node.left = new_node
             }
             else {
-                curr = curr.right
+                node = node.left
             }
         }
-        else{
+        else {
             return root
         }
     }
+    return root
 };
