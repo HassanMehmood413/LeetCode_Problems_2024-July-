@@ -10,14 +10,11 @@ class Solution:
             return True
         if not root:
             return False
-
-        # Initialize a simple queue with the root node
         queue = [root]
         while queue:
-            current = queue.pop(0)  # Dequeue the front element
+            current = queue.pop(0) 
             if current and current.val == subRoot.val and self.sametree(current, subRoot):
                 return True
-            # Enqueue left and right children if they exist
             if current:
                 if current.left:
                     queue.append(current.left)
@@ -26,11 +23,8 @@ class Solution:
         
         return False
 
-    def sametree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
-        if not root and not subRoot:
-            return True
-        if root and subRoot and root.val == subRoot.val:
-            return self.sametree(root.left, subRoot.left) and self.sametree(
-                root.right, subRoot.right
-            )
-        return False
+    def sametree(self, root, subRoot):
+        if not root or not subRoot:
+            return root == subRoot
+        return root.val == subRoot.val and self.sametree(root.left, subRoot.left) and self.sametree(root.right, subRoot.right)
+
