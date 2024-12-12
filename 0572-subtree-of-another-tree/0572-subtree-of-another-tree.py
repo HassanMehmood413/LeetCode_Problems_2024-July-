@@ -22,7 +22,6 @@ class Solution:
                     queue.append(current.left)
                 if current.right:
                     queue.append(current.right)
-
         return False
 
 
