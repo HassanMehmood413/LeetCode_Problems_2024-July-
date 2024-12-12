@@ -10,9 +10,16 @@ class Solution:
             return True
         if not root:
             return False
-        if self.sametree(root, subRoot):
-            return True
-        return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
+        
+        queue = deque([root])
+        while queue:
+            current = queue.popleft()
+            if current and current.val == subRoot.val and self.sametree(current, subRoot):
+                return True
+            if current:
+                queue.append(current.left)
+                queue.append(current.right)
+        return False
 
     def sametree(self, root, subRoot):
         if not root and not subRoot:
