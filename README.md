@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2698-find-the-array-concatenation-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2634-minimum-common-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2634-minimum-common-value) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3034-points-that-intersect-with-cars](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3034-points-that-intersect-with-cars) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2728-sum-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2728-sum-in-a-matrix) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2728-sum-in-a-matrix) |
 ## Bucket Sort
 |  |
@@ -1015,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2639-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2698-find-the-array-concatenation-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2698-find-the-array-concatenation-value) |
 | [2728-sum-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2728-sum-in-a-matrix) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2800-minimum-string-length-after-removing-substrings) |
