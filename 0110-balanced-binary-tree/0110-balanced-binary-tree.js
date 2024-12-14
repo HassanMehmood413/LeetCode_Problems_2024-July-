@@ -15,13 +15,13 @@ var isBalanced = function (root) {
     var again = function (root) {
         if (!root) return true
 
-        let left = again(root.left) 
+        let left = again(root.left)
         let right = again(root.right)
-        if (Math.abs(right - left) > 1) {
-            isvalid = false
-        }
-        return Math.max(left, right) + 1;
+
+        if (Math.abs(right - left) > 1) isvalid = false
+
+        return Math.max(left, right) + 1
     }
     again(root)
-    return isvalid
+    return isvalid 
 };
