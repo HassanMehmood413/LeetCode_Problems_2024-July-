@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2756-buy-two-chocolates) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2836-neither-minimum-nor-maximum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2836-neither-minimum-nor-maximum) |
+| [2868-continuous-subarrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2868-continuous-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2728-sum-in-a-matrix) |
+| [2868-continuous-subarrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2868-continuous-subarrays) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1103,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2868-continuous-subarrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -1264,11 +1267,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0859-design-circular-deque) |
+| [2868-continuous-subarrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0239-sliding-window-maximum) |
+| [2868-continuous-subarrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2868-continuous-subarrays) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -1389,4 +1394,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0493-reverse-pairs) |
+| [2868-continuous-subarrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
