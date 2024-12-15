@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0543-diameter-of-binary-tree) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0543-diameter-of-binary-tree) |
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0789-kth-largest-element-in-a-stream) |
