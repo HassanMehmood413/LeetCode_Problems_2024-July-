@@ -12,16 +12,18 @@
  */
 var zigzagLevelOrder = function (root) {
     if (!root) return []
+
     let queue = [root]
-    let arr = []
-    let comb = []
-    let count = 0
+    let result = []
+    let reverse = 0
     while (queue.length > 0) {
+        let collect = []
         let length = queue.length
-        comb = []
         for (let i = 0; i < length; i++) {
+
             let first = queue.shift()
-            comb.push(first.val)
+            collect.push(first.val)
+
             if (first.left != null) {
                 queue.push(first.left)
             }
@@ -29,15 +31,16 @@ var zigzagLevelOrder = function (root) {
                 queue.push(first.right)
             }
         }
-        if (count == 0) {
-            arr.push(comb)
-            count = 1
+
+        if (reverse == 0) {
+            result.push([...collect])
+            reverse = 1
         }
-        else if (count == 1) {
-            comb = comb.reverse()
-            arr.push(comb)
-            count = 0
+        else {
+            collect = collect.reverse()
+            result.push([...collect])
+            reverse = 0
         }
     }
-    return arr
+    return result
 };
