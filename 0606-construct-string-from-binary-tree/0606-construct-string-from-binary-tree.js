@@ -26,7 +26,9 @@ var tree2str = function (root) {
     // let res = again(root)
     // return res
 
+
     var again = function (root, res) {
+
         if (!root) return
         res.push(root.val)
         if (root.left) {
@@ -35,17 +37,17 @@ var tree2str = function (root) {
             res.push(')')
         }
         if (!root.left && root.right) {
-            res.push("()")
+            res.push('()')
         }
         if (root.right) {
-            res.push("(")
+            res.push('(')
             again(root.right, res)
-            res.push(')')
+            res.push(")")
         }
         return res
     }
-    let res = again(root, [])
-    return res.join("")
+    let s = again(root, [])
+    return s.join('')
 
 
 };
