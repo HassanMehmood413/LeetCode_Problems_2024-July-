@@ -4,16 +4,14 @@
  * @return {boolean}
  */
 var exist = function (board, word) {
-    let rows = board.length
-    let cols = board[0].length
-    var dfs = function (start, end, index, board, word) {
+    var dfs = function (start, end, board, word, index) {
         if (index == word.length) return true
-        if (start < 0 || end < 0 || start >= rows || end >= cols || board[start][end] != word[index]) return false
-
+        if (start < 0 || end < 0 || start >= board.length || end >= board[0].length || board[start][end] != word[index]) return false
         let temp = board[start][end]
         board[start][end] = "#"
-        for (let [x, y] of [[-1, 0], [1, 0], [0, -1], [0, 1]]) {
-            if (dfs(x + start, y + end, index + 1, board, word)) {
+
+        for (let [x, y] of [[-1, 0], [0, -1], [1, 0], [0, 1]]) {
+            if (dfs(start + x, end + y, board, word, index + 1)) {
                 return true
             }
         }
@@ -21,16 +19,12 @@ var exist = function (board, word) {
         return false
     }
 
-
-
-
-
-    for (let i = 0; i < rows; i++) {
-        for (let j = 0; j < cols; j++) {
-            if (dfs(i, j, 0, board, word)) {
+    for (let i = 0; i < board.length; i++) {
+        for (let j = 0; j < board[0].length; j++) {
+            if (dfs(i, j, board, word, 0)) {
                 return true
             }
         }
     }
     return false
-};  
+};
