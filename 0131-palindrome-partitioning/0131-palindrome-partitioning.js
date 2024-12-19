@@ -10,12 +10,11 @@ var partition = function (s) {
             return
         }
 
-
         for (let i = start; i < s.length; i++) {
-            let str = s.slice(start, i + 1)
-            if (str == str.split("").reverse().join('')) {
+            let str = s.slice(start,i+1)
+            if (str.split('').reverse().join('') == str) {
                 arr.push(str)
-                again(i + 1, arr)
+                again(i + 1,arr)
                 arr.pop()
             }
         }
