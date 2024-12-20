@@ -13,34 +13,32 @@
 var reverseOddLevels = function (root) {
     if (!root) return []
     let queue = [root]
-    let count = 0
+    let odd_count = 0
     while (queue.length > 0) {
-        let comb = []
+        let collect = []
         let length = queue.length
         for (let i = 0; i < length; i++) {
             let first = queue.shift()
-            comb.push(first)
-            if (first.left != null) {
+            collect.push(first)
+            if (first.left) {
                 queue.push(first.left)
-
             }
-            if (first.right != null) {
+            if (first.right) {
                 queue.push(first.right)
             }
         }
-        if (count % 2 != 0) {
+        if (odd_count % 2 !== 0) {
             let left = 0
-            let right = comb.length - 1
+            let right = collect.length - 1
             while (left < right) {
-                let temp = comb[left].val
-                comb[left].val = comb[right].val
-                comb[right].val = temp
+                let temp = collect[left].val
+                collect[left].val = collect[right].val
+                collect[right].val = temp
                 left++
                 right--
             }
         }
-        count++
-
+        odd_count++
     }
     return root
-};
+};  
