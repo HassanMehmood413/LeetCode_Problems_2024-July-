@@ -18,7 +18,7 @@ var makesquare = function (matchsticks) {
             if (matchsticks[start] + array[i] <= target) {
                 array[i] = matchsticks[start] + array[i]
                 if (again(start + 1)) return true
-                array[i] = matchsticks[start] - array[i]
+                array[i] = array[i] - matchsticks[start]
             }
         }
         return false
