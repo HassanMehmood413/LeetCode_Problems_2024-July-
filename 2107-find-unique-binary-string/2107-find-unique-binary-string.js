@@ -3,10 +3,10 @@
  * @return {string}
  */
 var findDifferentBinaryString = function (nums) {
-    // also in pythons
-    let result = ''
-    for (let i = 0; i < nums.length; i++) {
-        result += nums[i][i] == '0' ? '1' : '0'
+    let str = ''
+    let l = 0
+    for (let i = 0; i <= nums.length - 1; i++) {
+        str += nums[i][i] == '0' ? '1' : '0'
     }
-    return result
+    return str
 };
