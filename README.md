@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2573-remove-nodes-from-linked-list) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1063-best-sightseeing-pair](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1063-best-sightseeing-pair) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1072-next-greater-node-in-linked-list) |
 | [1127-last-stone-weight](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -1151,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0983-validate-stack-sequences) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1072-next-greater-node-in-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -1263,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0937-online-stock-span) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2573-remove-nodes-from-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2573-remove-nodes-from-linked-list) |
