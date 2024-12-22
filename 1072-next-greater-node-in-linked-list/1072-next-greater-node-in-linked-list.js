@@ -16,15 +16,13 @@ var nextLargerNodes = function (head) {
     while (current != null && next_node != null) {
         if (next_node.val > current.val) {
             arr.push(next_node.val)
-            current = current.next
-            next_node = current.next
         }
         else {
             let val = again(next_node, current.val)
             arr.push(val)
-            current = current.next
-            next_node = current.next
         }
+        current = current.next
+        next_node = current.next
     }
     arr.push(0)
     return arr
@@ -35,9 +33,7 @@ var again = function (head, val) {
         if (current_full.val > val) {
             return current_full.val
         }
-        else {
-            current_full = current_full.next
-        }
+        current_full = current_full.next
     }
     return 0
 }
