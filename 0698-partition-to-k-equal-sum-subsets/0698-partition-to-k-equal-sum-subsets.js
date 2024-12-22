@@ -4,28 +4,26 @@
  * @return {boolean}
  */
 var canPartitionKSubsets = function (nums, k) {
-    let sum = nums.reduce((a, b) => a + b, 0);
-    if (sum % k !== 0) return false;
-    let target = sum / k;
-
-    nums.sort((a, b) => b - a); // Sort in descending order
-    if (nums[0] > target) return false; // Early pruning
-
-    let used = Array(nums.length).fill(false);
-
-    function backtrack(kRemaining, start, currentSum) {
-        if (kRemaining === 0) return true; // All subsets formed
-        if (currentSum === target) {
-            return backtrack(kRemaining - 1, 0, 0); // Start next subset
+    let sum = nums.reduce((a, v) => a + v, 0)
+    if ((sum % k) !== 0) return false
+    if (nums.length < k) return false
+    if (nums[nums.length - 1] > sum) return false
+    nums = nums.sort((a, b) => b - a)
+    let target = sum / k
+    if (nums[0] > target) return false
+    let visit = new Array(nums.length).fill(false)
+    var again = function (start, sum, count) {
+        if (count == 0) return true
+        if (sum == target) {
+            return again(0, 0, count - 1)
         }
         for (let i = start; i < nums.length; i++) {
-            if (used[i] || currentSum + nums[i] > target) continue;
-            used[i] = true;
-            if (backtrack(kRemaining, i + 1, currentSum + nums[i])) return true;
-            used[i] = false;
+            if (visit[i] || nums[i] + sum > target) continue
+            visit[i] = true
+            if (again(i + 1, sum + nums[i], count)) { return true }
+            visit[i] = false
         }
-        return false;
+        return false
     }
-
-    return backtrack(k, 0, 0);
+    return again(0, 0, k)
 };
