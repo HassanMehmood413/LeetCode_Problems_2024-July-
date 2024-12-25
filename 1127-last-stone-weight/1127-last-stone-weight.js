@@ -1,22 +1,21 @@
-
-
 /**
  * @param {number[]} stones
  * @return {number}
  */
 var lastStoneWeight = function (stones) {
-    let pq = new MaxPriorityQueue()
-    for (let i = 0; i < stones.length; i++) {
-        pq.enqueue(stones[i])
+    let heap = new MaxPriorityQueue()
+    for (let stone of stones) { // Use "for...of" for values
+        heap.enqueue(stone, stone); // Assuming the value of the stone is its priority
     }
-    while (pq.size() > 1) {
-        let x = pq.dequeue().element
-        let y = pq.dequeue().element
-        if (x != y) {
-            pq.enqueue(x - y)
+    let arr = []
+    while (heap.size() > 1) {
+        let first = heap.dequeue().element
+        let second = heap.dequeue().element
+
+
+        if (first !== second) {
+            heap.enqueue(first - second, first - second)
         }
-
-    } return pq.size() === 0 ? 0 : pq.front().element
-
-
-}
+    }
+    return heap.isEmpty() ? 0 : heap.dequeue().element
+};
