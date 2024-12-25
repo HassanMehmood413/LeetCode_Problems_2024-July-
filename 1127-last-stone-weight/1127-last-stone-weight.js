@@ -4,8 +4,8 @@
  */
 var lastStoneWeight = function (stones) {
     let heap = new MaxPriorityQueue()
-    for (let stone of stones) { // Use "for...of" for values
-        heap.enqueue(stone, stone); // Assuming the value of the stone is its priority
+    for (let stone of stones) { 
+        heap.enqueue(stone, stone); 
     }
     let arr = []
     while (heap.size() > 1) {
