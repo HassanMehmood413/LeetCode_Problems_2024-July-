@@ -13,24 +13,25 @@
 var largestValues = function (root) {
     if (!root) return []
     let queue = [root]
-    arr = []
-    arr.push(root.val)
+    let result = [root.val]
     while (queue.length > 0) {
+        let arr = []
         let length = queue.length
         for (let i = 0; i < length; i++) {
             let first = queue.shift()
-            if (first.left != null) {
+            if (first.left) {
                 queue.push(first.left)
+                arr.push(first.left.val)
             }
-            if (first.right != null) {
+            if (first.right) {
                 queue.push(first.right)
+                arr.push(first.right.val)
             }
         }
-        maxVal = Math.max(...queue.map(node => node.val));
-        if (maxVal != -Infinity && maxVal != null) {
-
-            arr.push(maxVal)
+        let max = Math.max(...arr)
+        if (max != Infinity && max != -Infinity) {
+            result.push(max)
         }
     }
-    return arr
+    return result
 };
