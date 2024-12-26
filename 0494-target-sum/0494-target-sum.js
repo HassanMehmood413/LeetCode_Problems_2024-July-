@@ -5,18 +5,17 @@
  */
 var findTargetSumWays = function (nums, target) {
     let count = 0
-    var again = function (start, sum) {
+    var again = function (sum, target, start) {
         if (start == nums.length) {
             if (sum == target) {
                 count++
             }
             return
         }
-        again(start + 1, sum + nums[start])
-        again(start + 1, sum - nums[start])
+        again(sum + nums[start], target, start + 1)
 
+        again(sum - nums[start], target, start + 1)
     }
-    again(0, 0)
-
+    again(0, target, 0)
     return count
-}
+};
