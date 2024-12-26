@@ -4,20 +4,20 @@
  * @return {number[][]}
  */
 var kClosest = function (points, k) {
-    let map = []
-
+    let collect_ed = []
+    let minheap = new MinPriorityQueue()
     for (let i = 0; i < points.length; i++) {
-        let a = points[i][0];
-        let b = points[i][1];
-
-        let distance = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2));
-        map.push([distance, points[i]]); 
+        let a = points[i][0]
+        let b = points[i][1]
+        // Calculate ed distance
+        let ed = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2))
+        minheap.enqueue(points[i], ed)
     }
 
-    map = map.sort((a, b) => a[0] - b[0])
-    let res = []
-    for (let i = 0; i < k; i++) {
-        res.push(map[i][1]); 
+    while (k !== 0) {
+        let el = minheap.dequeue()
+        collect_ed.push(el.element)
+        k--
     }
-    return res
+    return collect_ed
 };
