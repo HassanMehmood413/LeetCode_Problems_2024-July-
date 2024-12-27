@@ -4,26 +4,21 @@
  * @return {number}
  */
 var findKthLargest = function (nums, k) {
-    let pq = new MinPriorityQueue(); // Create a MinPriorityQueue
-    let arr = [];
+    let pq = new MinPriorityQueue()
+    let arr = []
 
-    // Initialize the priority queue with the first `k` elements
     for (let i = 0; i < k; i++) {
-        pq.enqueue(nums[i]); // Enqueue each element
+        pq.enqueue(nums[i])
     }
 
-    // Process remaining elements
     for (let i = k; i < nums.length; i++) {
-        if (nums[i] >= pq.front().element) { // Compare with the smallest element
-            pq.dequeue(); // Remove the smallest element
-            pq.enqueue(nums[i]); // Enqueue the current element
+        if (nums[i] >= pq.front().element) {
+            pq.dequeue()
+            pq.enqueue(nums[i])
         }
     }
-
-    // Collect elements from the priority queue
     while (!pq.isEmpty()) {
-        arr.push(pq.dequeue().element); // Dequeue elements into an array
+        arr.push(pq.dequeue().element)
     }
-
-    return arr[0]; // Return the array
+    return arr[0]
 };
