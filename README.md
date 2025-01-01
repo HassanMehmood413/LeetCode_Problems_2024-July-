@@ -798,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1435-xor-queries-of-a-subarray) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1833-find-the-highest-altitude) |
