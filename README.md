@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3324-split-the-array) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3373-maximum-prime-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3373-maximum-prime-difference) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3451-string-compression-iii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3451-string-compression-iii) |
@@ -1273,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Union Find
 |  |
 | ------- |
@@ -1365,16 +1368,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0572-subtree-of-another-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Graph
 |  |
 | ------- |
