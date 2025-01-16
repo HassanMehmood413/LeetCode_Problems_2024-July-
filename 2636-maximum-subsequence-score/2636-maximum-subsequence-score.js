@@ -7,7 +7,7 @@
 var maxScore = function (nums1, nums2, k) {
     let pairs = nums2.map((val, ind) => [val, nums1[ind]])
     pairs.sort((a, b) => b[0] - a[0])
-    let minQ = new MinPriorityQueue({ priority: x => x })
+    let minQ = new MinPriorityQueue()
     let max = 0
     let minSum = 0
 
