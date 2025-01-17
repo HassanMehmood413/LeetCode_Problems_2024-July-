@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2107-find-unique-binary-string) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1014-k-closest-points-to-origin) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1762-furthest-building-you-can-reach](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1762-furthest-building-you-can-reach) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2636-maximum-subsequence-score](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2636-maximum-subsequence-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1014-k-closest-points-to-origin) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -838,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2107-find-unique-binary-string) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
