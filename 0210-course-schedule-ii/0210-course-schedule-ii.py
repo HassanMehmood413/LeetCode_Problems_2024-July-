@@ -29,3 +29,7 @@ class Solution:
                     queue.append(neighbor)
 
         return result[::-1] if len(result) == numCourses else []
+
+
+        # Time Complexity : 0(V + E)
+        # Space Complexity : 0(V + E)
