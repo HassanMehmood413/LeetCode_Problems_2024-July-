@@ -8,32 +8,29 @@
  */
 var findCheapestPrice = function (n, flights, src, dst, k) {
     let graph = []
-    let visit = new Array(n).fill(Infinity)
-    visit[src] = 0
     for (let i = 0; i < n; i++) {
         graph[i] = []
     }
-
     for (let [u, v, w] of flights) {
         graph[u].push([v, w])
     }
-    let queue = []
-    queue.push([src, 0])
-    k++
-    while (k-- > 0 && queue.length > 0) {
-        let length = queue.length
-        for (let i = 0; i < length; i++) {
-            let [neighbor, price] = queue.shift()
-            if (graph[neighbor]) {
-                for (let [news, newprice] of graph[neighbor]) {
-                    newprice = price + newprice
-                    if (newprice < visit[news]) {
-                        visit[news] = newprice
-                        queue.push([news, newprice])
-                    }
-                }
+
+    let dist = new Array(n).fill(Infinity)
+    dist[src] = 0
+
+    let queue = [[src, 0, 0]]
+    while (queue.length > 0) {
+        let [node, cost, stops] = queue.shift()
+
+        if (stops > k) continue
+
+        for (let [neighbor, weight] of graph[node]) {
+            let newcost = weight + cost
+            if (newcost < dist[neighbor] && stops <= k) {
+                dist[neighbor] = newcost
+                queue.push([neighbor, newcost, stops + 1])
             }
         }
     }
-    return visit[dst] === Infinity? -1 : visit[dst]
+    return dist[dst] == Infinity ? -1 : dist[dst]
 };
