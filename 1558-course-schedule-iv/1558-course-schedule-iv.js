@@ -5,7 +5,6 @@
  * @return {boolean[]}
  */
 var checkIfPrerequisite = function (numCourses, prerequisites, queries) {
-    let indegree = new Array(numCourses).fill(Infinity)
     let graph = new Map()
 
     var again = function (graph, first, second) {
