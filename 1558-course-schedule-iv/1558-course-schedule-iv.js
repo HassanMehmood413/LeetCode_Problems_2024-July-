@@ -18,7 +18,6 @@ var checkIfPrerequisite = function (numCourses, prerequisites, queries) {
     for (let [u, v] of prerequisites) {
         again(graph, u, v)
     }
-    console.log(graph)
 
 
     var dfs = function (first_val, second_val, graph, visit) {
