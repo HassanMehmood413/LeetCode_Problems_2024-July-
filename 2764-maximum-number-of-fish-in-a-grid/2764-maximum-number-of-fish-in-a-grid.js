@@ -8,17 +8,13 @@ var findMaxFish = function (grid) {
 
     var dfs = function (start, end) {
 
-        if (start < 0 ||
-            end < 0 ||
-            start >= grid.length ||
-            end >= grid[0].length ||
-            grid[start][end] == 0 ||
-            visit.has(`${start},${end}`)) {
+        if (start < 0 || end < 0 || start >= grid.length ||
+            end >= grid[0].length || grid[start][end] == 0 || visit.has(`${start},${end}`)) 
+        {
             return 0
         }
 
         visit.add(`${start},${end}`);
-
 
         let count = grid[start][end]
 
@@ -26,11 +22,8 @@ var findMaxFish = function (grid) {
             let first = x + start;
             let second = y + end;
 
-
             count += dfs(first, second)
-
         }
-
         return count
     };
 
