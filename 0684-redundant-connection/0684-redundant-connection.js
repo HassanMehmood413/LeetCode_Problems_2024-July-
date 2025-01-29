@@ -3,43 +3,43 @@
  * @return {number[]}
  */
 var findRedundantConnection = function (edges) {
-    let parent = new Array(edges.length + 1)
-    let rank = new Array(edges.length + 1).fill(0)
-    for (let i = 1; i <= edges.length; i++) {
-        parent[i] = i
-    }
-
-
-    var findpath = function (x, parent) {
+    var find = function (x) {
         if (parent[x] != x) {
-            parent[x] = findpath(parent[x], parent)
+            parent[x] = find(parent[x])
         }
         return parent[x]
     }
 
-    var union = function (x, y, parent, rank) {
-        let rankx = findpath(x, parent)
-        let ranky = findpath(y, parent)
+    var union = function (x, y) {
+        let rootx = find(x)
+        let rooty = find(y)
 
-        if (rankx !== ranky) {
-            if (rank[rankx] > rank[ranky]) {
-                parent[ranky] = rankx
-            }
-            else if (rank[rankx] < rank[ranky]) {
-                parent[rankx] = ranky
-            }
-            else {
-                parent[rankx] = ranky
-                rank[ranky]++
-            }
-            return true
+        if (rootx == rooty) return false
+        if (rank[rootx] > rank[rooty]) {
+            parent[rooty] = rootx
         }
-        return false
+        else if (rank[rootx] < rank[rooty]) {
+            parent[rootx] = rooty
+        }
+        else {
+            parent[rooty] = rootx
+            rank[rootx]++
+        }
+        return true
     }
-    for (let [a, b] of edges) {
-        if (!union(a, b, parent, rank)) {
-            return [a, b]
+
+
+    let n = edges.length
+    let parent = []
+    let rank = []
+    for (let i = 0; i < n; i++) {
+        parent[i] = i
+        rank[i] = 0
+    }
+
+    for (let [u, v] of edges) {
+        if (!union(u, v)) {
+            return [u, v]
         }
     }
-    return []
 };
