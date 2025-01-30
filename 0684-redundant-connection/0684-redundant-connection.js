@@ -3,6 +3,7 @@
  * @return {number[]}
  */
 var findRedundantConnection = function (edges) {
+    
     var find = function (x) {
         if (parent[x] != x) {
             parent[x] = find(parent[x])
