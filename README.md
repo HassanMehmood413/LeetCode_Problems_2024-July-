@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1972-rotating-the-box](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1972-rotating-the-box) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -776,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1806-count-of-matches-in-tournament) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2244-number-of-laser-beams-in-a-bank) |
