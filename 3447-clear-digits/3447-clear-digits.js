@@ -3,22 +3,6 @@
  * @return {string}
  */
 var clearDigits = function (s) {
-    // s = s.split('')
-    let arr = []
-    // for (let i = 0; i < s.length; i++) {
-    //     if (String(s[i])) {
-    //         for (let j = i; j < s.length; j++) {
-    //             if (Number(s[j])) {
-    //                 arr.push([i, j])
-    //                 break
-    //             }
-    //         }
-    //         if (arr.length == 0) {
-    //             break
-    //         }
-    //     }
-    // }
-    // console.log(arr)
     s = s.split('')
     for (let i = 0; i < s.length; i++) {
         if (!isNaN(s[i]) && s[i] !== ' ') { 
