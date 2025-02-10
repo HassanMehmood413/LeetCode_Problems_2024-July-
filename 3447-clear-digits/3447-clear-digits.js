@@ -3,18 +3,37 @@
  * @return {string}
  */
 var clearDigits = function (s) {
+    // s = s.split('')
+    let arr = []
+    // for (let i = 0; i < s.length; i++) {
+    //     if (String(s[i])) {
+    //         for (let j = i; j < s.length; j++) {
+    //             if (Number(s[j])) {
+    //                 arr.push([i, j])
+    //                 break
+    //             }
+    //         }
+    //         if (arr.length == 0) {
+    //             break
+    //         }
+    //     }
+    // }
+    // console.log(arr)
     s = s.split('')
-    let stack = []
     for (let i = 0; i < s.length; i++) {
-        if (stack.length == 0) {
-            stack.push(s[i])
+        if (!isNaN(s[i]) && s[i] !== ' ') { 
+            let j = i - 1
+            while (j >= 0) {
+                if (isNaN(s[j])) {
+                    s.splice(i, 1)
+                    s.splice(j, 1)
+                    i -= 2
+                    break
+                }
+                j--
+            }
         }
-        else if (isNaN(Number(s[i]))) {
-            stack.push(s[i])
-        }
-        else if (!isNaN(Number(s[i])) && isNaN(stack[stack.length - 1])) {
-            stack.pop()
-        }
+
     }
-    return stack.join('')
+    return s.join('')
 };
