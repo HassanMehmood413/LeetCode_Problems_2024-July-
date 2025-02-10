@@ -885,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3462-vowels-game-in-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3468-find-the-encrypted-string) |
@@ -1111,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Brainteaser
 |  |
@@ -1234,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-remove-nodes-from-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3447-clear-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3447-clear-digits) |
 ## Backtracking
 |  |
 | ------- |
