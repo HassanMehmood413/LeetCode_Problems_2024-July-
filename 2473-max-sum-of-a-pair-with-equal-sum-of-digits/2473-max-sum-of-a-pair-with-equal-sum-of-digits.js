@@ -3,6 +3,8 @@
  * @return {number}
  */
 var maximumSum = function (nums) {
+    // with sorting 
+
     // let arr = []
     // let map = new Map()
     // for (let i = 0; i < nums.length; i++) {
@@ -23,6 +25,8 @@ var maximumSum = function (nums) {
 
     // return maxsum
 
+
+    // With Sorting
     let maxsum = -1
     let map = {}
 
