@@ -28,8 +28,8 @@ var maximumSum = function (nums) {
 function sumOfDigits(n) {
     let total = 0;
     while (n > 0) {
-        total += n % 10;  // Extract the last digit
-        n = Math.floor(n / 10);  // Remove the last digit
+        total += n % 10;  
+        n = Math.floor(n / 10); 
     }
     return total;
 }
