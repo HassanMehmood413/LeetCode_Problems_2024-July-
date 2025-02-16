@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1762-furthest-building-you-can-reach) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -1275,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2107-find-unique-binary-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2107-find-unique-binary-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2696-the-number-of-beautiful-subsets) |
