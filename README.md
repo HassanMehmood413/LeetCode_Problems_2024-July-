@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1023-time-based-key-value-store) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1160-letter-tile-possibilities](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1160-letter-tile-possibilities) |
 | [1319-unique-number-of-occurrences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1502-construct-k-palindrome-strings) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1160-letter-tile-possibilities](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1023-time-based-key-value-store) |
+| [1160-letter-tile-possibilities](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -1275,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
