@@ -16,7 +16,7 @@ var findDifferentBinaryString = function (nums) {
                 return current
             }
             else {
-                return null
+                return false
             }
         }
 
