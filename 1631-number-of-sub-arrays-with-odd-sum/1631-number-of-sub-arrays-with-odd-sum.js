@@ -7,7 +7,6 @@ var numOfSubarrays = function (arr) {
     for (let i = 0; i < arr.length; i++) {
         prefixsum += arr[i]
         oddsum += prefixsum % 2
-        console.log(prefixsum, oddsum)
     }
     oddsum += (arr.length - oddsum) * oddsum
     return oddsum % 1_000_000_007
