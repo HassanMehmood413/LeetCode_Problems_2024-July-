@@ -3,18 +3,13 @@
  * @return {number}
  */
 var climbStairs = function (n) {
-    dp = new Array(n + 1).fill(-1)
-    let res = 0
-    var stairs = function (n, dp, res) {
-        if (n <= 1) {
-            return 1
-        }
-        if (dp[n] != -1) {
-            return dp[n]
-        }
-        dp[n] = stairs(n - 1, dp) + stairs(n - 2, dp)
+    let count = 0
+    let dp = new Array(n + 1).fill(-1)
+    var again = function (n, dp) {
+        if (n <= 1) return 1
+        if (dp[n] != -1) return dp[n]
+        dp[n] = again(n - 1, dp) + again(n - 2, dp)
         return dp[n]
     }
-    return stairs(n, dp)
-
+    return again(n, dp)
 };
