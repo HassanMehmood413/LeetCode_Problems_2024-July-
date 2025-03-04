@@ -800,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1806-count-of-matches-in-tournament](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1806-count-of-matches-in-tournament) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2106-find-greatest-common-divisor-of-array) |
