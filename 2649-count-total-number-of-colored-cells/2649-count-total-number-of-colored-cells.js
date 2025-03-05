@@ -3,11 +3,10 @@
  * @return {number}
  */
 var coloredCells = function (n) {
-    // let n = 3
     let i = 1
     let last = n
     let sum = 1
-    if (n == 1) console.log(i)
+    if (n == 1) return i
     while (last > 1) {
         i += 2
         sum = sum + i
