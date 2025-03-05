@@ -812,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2649-count-total-number-of-colored-cells](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2649-count-total-number-of-colored-cells) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
