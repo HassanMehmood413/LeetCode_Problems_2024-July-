@@ -15,20 +15,9 @@ var findMissingAndRepeatedValues = function (grid) {
             repeated_val.add(num)
         }
     }
-    let arr = grid.flat()
-    let min = Math.min(...arr)
-    if (min != 1) {
-        return [most, 1]
-    }
-    let max = Math.max(...arr)
-    let missing = max + 1
-    let i = min
-    while (i <= max) {
-        if (!arr.includes(i)) {
-            missing = i
-        }
-        i++
-    }
-    return [most, missing]
-
+    let c = grid.length * grid.length
+    let su = 0
+    repeated_val.forEach((m) => su += m)
+    b = (c * (c + 1)) / 2 - su
+    return [most, b]
 };
