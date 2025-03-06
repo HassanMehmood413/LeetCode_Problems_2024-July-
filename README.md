@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3324-split-the-array) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-points-that-intersect-with-cars](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3034-points-that-intersect-with-cars) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3324-split-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3324-split-the-array) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3055-maximum-odd-binary-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3055-maximum-odd-binary-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3227-find-missing-and-repeated-values) |
 | [3373-maximum-prime-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3373-maximum-prime-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1353,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2728-sum-in-a-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2728-sum-in-a-matrix) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/3227-find-missing-and-repeated-values) |
 ## String Matching
 |  |
 | ------- |
