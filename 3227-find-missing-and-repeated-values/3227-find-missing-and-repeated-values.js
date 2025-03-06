@@ -3,18 +3,16 @@
  * @return {number[]}
  */
 var findMissingAndRepeatedValues = function (grid) {
-    let repeated_val = new Map()
+    let repeated_val = new Set()
     let most = 0
     let count = 0
     for (let i = 0; i < grid.length; i++) {
         for (let j = 0; j < grid[0].length; j++) {
             num = grid[i][j]
-            repeated_val.set(num, (repeated_val.get(num) || 0) + 1);
-
-            if (repeated_val.get(num) > count) {
+            if (repeated_val.has(num)) {
                 most = num
-                count = repeated_val.get(num)
             }
+            repeated_val.add(num)
         }
     }
     let arr = grid.flat()
