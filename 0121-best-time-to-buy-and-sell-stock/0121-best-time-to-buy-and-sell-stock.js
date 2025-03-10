@@ -5,17 +5,11 @@
 var maxProfit = function (prices) {
     let min = Infinity
     let max = -Infinity
-    let left = 0
-    let right = prices.length - 1
-    while (left <= right) {
-        if (prices[left] < min) {
-            min = prices[left]
-        }
-        else {
-            let a = prices[left] - min
-            max = Math.max(max, a)
-        }
-        left++
+    let max_profit = 0
+    for (let i = 0; i < prices.length; i++) {
+        min = Math.min(prices[i], min)
+        let amount = prices[i] - min
+        max_profit = Math.max(max_profit, amount)
     }
-    return max == -Infinity ? 0 : max
+    return max_profit
 };
