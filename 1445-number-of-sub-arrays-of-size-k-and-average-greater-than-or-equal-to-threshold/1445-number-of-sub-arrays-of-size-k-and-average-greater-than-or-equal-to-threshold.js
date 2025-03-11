@@ -5,28 +5,24 @@
  * @return {number}
  */
 var numOfSubarrays = function (arr, k, threshold) {
-    let left = 0
-    let sum = 0
+    let check = []
     let count = 0
+    let sum = 0
+    let left = 0
     let right = 0
-    let a = []
     while (right < arr.length) {
-        a.push(arr[right])
+        check.push(arr[right])
         sum = sum + arr[right]
-        if (a.length == k) {
+        if (check.length == k) {
             let avg = sum / k
-            if (avg >= threshold) {
-                count++
-            }
+            if (avg >= threshold) count++
         }
-        while (a.length >= k) {
-            sum = sum - arr[left]
-            a.shift()
+        while (check.length >= k) {
+            check.shift()
+            sum -= arr[left]
             left++
         }
-
         right++
-
     }
     return count
 };
