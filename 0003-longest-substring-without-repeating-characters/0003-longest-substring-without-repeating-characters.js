@@ -3,15 +3,20 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function (s) {
+    let max_l = 0
     let str = ''
-    let count = 0
-    let max = -Infinity
-    for (let right = 0; right < s.length; right++) {
+    let right = 0, left = 0
+    while (right < s.length) {
         while (str.includes(s[right])) {
             str = str.slice(1)
+            left++
         }
-        max = Math.max(str.length, max)
-        str = str + s[right]
+        if (!str.includes(s[right])) {
+            str += s[right]
+            max_l = Math.max(max_l, str.length)
+        }
+
+        right++
     }
-    return max == -Infinity ? 0 : max + 1
+    return max_l
 };
