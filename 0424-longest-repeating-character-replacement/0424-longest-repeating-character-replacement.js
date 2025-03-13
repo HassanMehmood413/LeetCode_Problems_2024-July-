@@ -9,22 +9,23 @@ var characterReplacement = function (s, k) {
     for (let right = 65; right <= 90; right++) {
         let i = 0; j = 0; replace = 0
         while (j < length) {
-            if (s[j] == String.fromCharCode(right)){
+            if (s[j] == String.fromCharCode(right)) {
                 j++
             }
-            else if(replace < k){
+            else if (replace < k) {
                 replace++
                 j++
             }
-            else if(s[i] == String.fromCharCode(right)){
+            else if (s[i] == String.fromCharCode(right)) {
                 i++
             }
-            else{
+            else {
                 replace--
                 i++
             }
-            max = Math.max(max,j-i)
+            max = Math.max(max, j - i)
         }
     }
     return max
-};
+
+}
