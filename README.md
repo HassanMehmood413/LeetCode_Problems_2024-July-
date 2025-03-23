@@ -886,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1666-make-the-string-great](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1666-make-the-string-great) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1282,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1072-next-greater-node-in-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1666-make-the-string-great](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1666-make-the-string-great) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
