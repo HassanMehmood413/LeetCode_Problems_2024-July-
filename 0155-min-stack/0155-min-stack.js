@@ -9,6 +9,7 @@ var MinStack = function () {
  * @return {void}
  */
 MinStack.prototype.push = function (val) {
+
     this.stack.push(val)
     if (this.minstack.length == 0 || val <= this.minstack[this.minstack.length - 1]) {
         this.minstack.push(val)
@@ -20,11 +21,11 @@ MinStack.prototype.push = function (val) {
  * @return {void}
  */
 MinStack.prototype.pop = function () {
+
     let a = this.stack.pop()
-    if (a == this.minstack[this.minstack.length - 1]){
+    if (a == this.minstack[this.minstack.length - 1]) {
         this.minstack.pop()
     }
-
 };
 
 /**
