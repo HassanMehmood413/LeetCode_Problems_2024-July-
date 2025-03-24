@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0162-find-peak-element) |
@@ -791,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0357-count-numbers-with-unique-digits) |
@@ -1263,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0232-implement-queue-using-stacks) |
