@@ -5,11 +5,12 @@
 var removeStars = function (s) {
     let stack = []
     for (let i = 0; i < s.length; i++) {
-        if (s[i] == "*") {
+        let char = s[i]
+        if (char == '*') {
             stack.pop()
         }
         else {
-            stack.push(s[i])
+            stack.push(char)
         }
     }
     return stack.join("")
