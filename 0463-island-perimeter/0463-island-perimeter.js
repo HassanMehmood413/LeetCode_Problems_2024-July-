@@ -39,6 +39,8 @@ var islandPerimeter = function (grid) {
     // }
     // return count
 
+
+    // Simple checking on graph 
     let count = 0
     for (let i = 0; i < grid.length; i++) {
         for (let j = 0; j < grid[0].length; j++) {
