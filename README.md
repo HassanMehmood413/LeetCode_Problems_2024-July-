@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0441-arranging-coins](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0633-sum-of-square-numbers) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0441-arranging-coins) |
 | [0539-minimum-time-difference](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0650-2-keys-keyboard) |
