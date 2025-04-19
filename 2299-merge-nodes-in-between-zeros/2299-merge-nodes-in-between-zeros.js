@@ -10,50 +10,21 @@
  * @return {ListNode}
  */
 var mergeNodes = function (head) {
-    // let arr = []
-    // let current = head
-    // let dummy = new ListNode()
-    // let prev = dummy
-    // while (current != null) {
-    //     arr.push(current.val)
-    //     current = current.next
-    // }
-    // let sum1 = 0
-    // let arr2 = []
-    // for (let i = 0; i < arr.length; i++) {
-    //     if (arr[i] != 0) {
-    //         sum1 = sum1 + arr[i]
-    //     }
-    //     else if (sum1 != 0) {
-    //         arr2.push(sum1)
-    //         sum1 = 0
-    //     }
-    // }
-    // for (let i = 0; i < arr2.length; i++) {
-    //     prev.next = new ListNode(arr2[i])
-    //     prev = prev.next
-    // }
-    // return dummy.next
-
-    let current = head
     let dummy = new ListNode()
-    let prev = dummy
+    let temp = dummy
+    let slow = head
+    let fast = head.next
     let sum = 0
-    while (current != null) {
-
-        if (current.val != 0) {
-
-            while (current.val != 0) {
-                sum = sum + current.val
-                current = current.next
-            }
-            prev.next = new ListNode(sum)
-            prev = prev.next
+    while (slow.next != null && fast != null) {
+        if (slow.val == 0 && fast.val == 0) {
+            temp.next = new ListNode(sum)
+            temp = temp.next
+            slow = fast
             sum = 0
         }
-
-        current = current.next
-
+        sum += fast.val
+        fast = fast.next
     }
     return dummy.next
+
 };
