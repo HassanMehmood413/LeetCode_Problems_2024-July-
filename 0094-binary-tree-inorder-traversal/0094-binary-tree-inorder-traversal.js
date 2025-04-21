@@ -11,13 +11,13 @@
  * @return {number[]}
  */
 var inorderTraversal = function (root) {
-    let arr = []
-    var again = function (root) {
+    let res = []
+    var inorder = function (root) {
         if (!root) return []
-        again(root.left)
-        arr.push(root.val)
-        again(root.right)
+        inorder(root.left)
+        res.push(root.val)
+        inorder(root.right)
     }
-    again(root)
-    return arr
+    inorder(root)
+    return res
 };
