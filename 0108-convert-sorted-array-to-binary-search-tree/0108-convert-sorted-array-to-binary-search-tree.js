@@ -11,14 +11,14 @@
  * @return {TreeNode}
  */
 var sortedArrayToBST = function (nums) {
-    let result = function (nums) {
-        if(!nums.length) return null
+    var again = function (nums) {
+        if (!nums.length) return null
         let mid = Math.floor(nums.length / 2)
-        let v = nums[mid]
-        let node = new TreeNode(v)
-        node.left = result(nums.slice(0,mid))
-        node.right = result(nums.slice(mid+1))
-        return node
+        let node = nums[mid]
+        let root = new TreeNode(node)
+        root.left = again(nums.slice(0, mid))
+        root.right = again(nums.slice(mid + 1))
+        return root
     }
-    return result(nums)
+    return again(nums)
 };
