@@ -12,19 +12,39 @@
  * @return {boolean}
  */
 var isSubtree = function (root, subRoot) {
-    // first make SameTree function
-    // then make isSubtree to check if subroot is a subroot of tree 
-    if(!subRoot && root) return true
-    if(!root && subRoot) return false
-    if(sametree(root,subRoot)) return true
-    return isSubtree(root.left,subRoot) || isSubtree(root.right,subRoot)
+    let queue1 = [root]
+    let queue2 = [subRoot]
+    let isvalid = false
+    while (queue1.length > 0) {
+        let length = queue1.length
+        for (let i = 0; i < length; i++) {
+            let first = queue1.shift()
+            if (first.val != subRoot.val) {
 
-};
-// same tree is for if the length of both are same
-var sametree = function (root, subRoot) {
-    if (!root && !subRoot) return true
-    if (root && subRoot && root.val == subRoot.val) {
-        return sametree(root.left, subRoot.left) && sametree(root.right, subRoot.right)
+                if (first.left) {
+                    queue1.push(first.left)
+                }
+                if (first.right) {
+                    queue1.push(first.right)
+                }
+            }
+            else if (first.val == subRoot.val) {
+                let ans = check(first, subRoot)
+                if (ans) {
+                    return isvalid = true
+                }
+                if (first.left) queue1.push(first.left);
+                if (first.right) queue1.push(first.right);
+            }
+        }
     }
-    return false
-}
+    return isvalid
+};
+
+var check = function (node1, node2) {
+    if (!node1 && !node2) return true;
+    if (!node1 || !node2) return false;
+    if (node1.val !== node2.val) return false;
+
+    return check(node1.left, node2.left) && check(node1.right, node2.right);
+};
