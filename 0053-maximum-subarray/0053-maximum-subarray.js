@@ -15,5 +15,5 @@ var maxSubArray = function (nums) {
             max = sum
         }
     }
-    return sum == -Infinity ? Math.max(...nums) : max;
+    return max == -Infinity ? Math.max(...nums) : max;
 }
