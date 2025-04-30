@@ -43,10 +43,12 @@ var combinationSum2 = function (candidates, target) {
         }
         if (sum > target) return
         for (let i = index; i < candidates.length; i++) {
-            if (i > index && candidates[i] == candidates[i - 1]) continue
-            arr.push(candidates[i])
-            again(i + 1, arr, sum + candidates[i], set)
-            arr.pop()
+            if (sum + candidates[i] <= target) {
+                if (i > index && candidates[i] == candidates[i - 1]) continue
+                arr.push(candidates[i])
+                again(i + 1, arr, sum + candidates[i], set)
+                arr.pop()
+            }
         }
     }
     again(0, [], 0, set)
