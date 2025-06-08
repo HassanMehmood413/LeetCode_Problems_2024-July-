@@ -4,15 +4,20 @@
  * @return {number}
  */
 var leastInterval = function (tasks, n) {
-    let map = new Map()
-    let count = 0
     let max = 0
-    tasks.forEach((value) => {
-        map.set(value, (map.get(value) || 0) + 1)
-        max = Math.max(max, map.get(value))
+    let count = 0
+    let map = new Map()
+    tasks.map((value) => {
+        if (map.has(value)) {
+            map.set(value, map.get(value) + 1)
+            max = Math.max(map.get(value), max)
+        }
+        else {
+            map.set(value, 1)
+        }
     })
-    for (let [a, v] of map) {
-        if (max == v) {
+    for (let [value, key] of map.entries()) {
+        if (max == key) {
             count++
         }
     }
