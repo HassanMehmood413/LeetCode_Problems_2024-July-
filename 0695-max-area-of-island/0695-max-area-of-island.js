@@ -3,34 +3,37 @@
  * @return {number}
  */
 var maxAreaOfIsland = function (grid) {
-    let max = 0
+    let row = grid.length
+    let col = grid[0].length
     let visit = new Set()
-    var bfs = function (start, end) {
+    let max = 0
+    let queue = []
+
+    var dfs = function (start, end) {
         visit.add(`${start},${end}`)
         let count = 1
-        let queue = [[start, end]]
+        queue.push([start, end])
         while (queue.length > 0) {
             let [first, second] = queue.shift()
-            for (let [x, y] of [[-1, 0], [0, -1], [1, 0], [0, 1]]) {
-                let a = x + first
-                let b = y + second
-                if (a >= 0 && b >= 0 && a < grid.length && b < grid[0].length && grid[a][b] == 1 && !visit.has(`${a},${b}`)) {
-                    queue.push([a, b])
+            for (let [r, c] of [[-1, 0], [0, -1], [1, 0], [0, 1]]) {
+                let x = first + r
+                let y = second + c
+                if (x >= 0 && y >= 0 && x < row && y < col && grid[x][y] == 1 && !visit.has(`${x},${y}`)) {
+                    queue.push([x, y])
                     count++
-                    visit.add(`${a},${b}`)
+                    visit.add(`${x},${y}`)
                 }
             }
         }
         max = Math.max(count, max)
-
     }
 
 
 
     for (let i = 0; i < grid.length; i++) {
-        for (let j = 0; j < grid[0].length; j++) {
+        for (let j = 0; j < col; j++) {
             if (grid[i][j] == 1 && !visit.has(`${i},${j}`)) {
-                bfs(i, j)
+                dfs(i, j)
             }
         }
     }
