@@ -3,36 +3,35 @@
  * @return {number}
  */
 var numIslands = function (grid) {
+    let row = grid.length
+    let visit = new Set()
+    let col = grid[0].length
+    let queue = []
+    let count = 0
 
-    var bfs = function (i, j) {
-        let queue = [[i, j]]
+
+    var dfs = function (start, end) {
         while (queue.length > 0) {
-            let length = queue.length
-            for (let i = 0; i < length; i++) {
-                let [row, col] = queue.shift()
-                for (let [r, c] of [[-1, 0], [1, 0], [0, -1], [0, 1]]) {
-                    let x = r + row
-                    let y = c + col
-                    if (x >= 0 && y >= 0 && x < grid.length && y < grid[0].length && grid[x][y] == "1") {
-                        grid[x][y] = "0"
-                        queue.push([x, y])
-                    }
+            let [first, second] = queue.shift()
+            for (let [x, y] of [[-1, 0], [0, -1], [1, 0], [0, 1]]) {
+                let newr = first + x
+                let newy = second + y
+                if (newr >= 0 && newy >= 0 && newr < row && newy < col && grid[newr][newy] == '1' && !visit.has(`${newr},${newy}`)) {
+                    queue.push([newr, newy])
+                    visit.add(`${newr},${newy}`)
                 }
             }
         }
     }
 
-
-
-    let number = 0
-    for (let i = 0; i < grid.length; i++) {
-        for (let j = 0; j < grid[0].length; j++) {
-            if (grid[i][j] == "1") {
-                number++
-                bfs(i, j)
+    for (let i = 0; i < row; i++) {
+        for (let j = 0; j < col; j++) {
+            if (grid[i][j] == '1' && !visit.has(`${i},${j}`)) {
+                queue.push([i, j])
+                count++
+                dfs(i, j)
             }
         }
     }
-    return number
-}
-
+    return count
+};
