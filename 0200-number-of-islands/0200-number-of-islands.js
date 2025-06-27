@@ -11,6 +11,7 @@ var numIslands = function (grid) {
 
 
     var dfs = function (start, end) {
+        if (start > row && end > col && start < 0 && end < 0 && grid[start][end] == '0') return
         while (queue.length > 0) {
             let [first, second] = queue.shift()
             for (let [x, y] of [[-1, 0], [0, -1], [1, 0], [0, 1]]) {
