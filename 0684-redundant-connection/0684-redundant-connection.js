@@ -3,7 +3,6 @@
  * @return {number[]}
  */
 var findRedundantConnection = function (edges) {
-    
     var find = function (x) {
         if (parent[x] != x) {
             parent[x] = find(parent[x])
@@ -14,8 +13,8 @@ var findRedundantConnection = function (edges) {
     var union = function (x, y) {
         let rootx = find(x)
         let rooty = find(y)
-
         if (rootx == rooty) return false
+
         if (rank[rootx] > rank[rooty]) {
             parent[rooty] = rootx
         }
@@ -27,12 +26,16 @@ var findRedundantConnection = function (edges) {
             rank[rootx]++
         }
         return true
+
     }
+
+
 
 
     let n = edges.length
     let parent = []
     let rank = []
+
     for (let i = 0; i < n; i++) {
         parent[i] = i
         rank[i] = 0
@@ -43,4 +46,7 @@ var findRedundantConnection = function (edges) {
             return [u, v]
         }
     }
+
+
+
 };
