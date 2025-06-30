@@ -47,6 +47,4 @@ var findRedundantConnection = function (edges) {
         }
     }
 
-
-
 };
