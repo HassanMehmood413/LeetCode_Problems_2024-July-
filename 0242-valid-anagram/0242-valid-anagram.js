@@ -4,35 +4,32 @@
  * @return {boolean}
  */
 var isAnagram = function (s, t) {
-    if (s.length !== t.length) {
-        return false
-    }
-    let map1 = new Map()
-    let map2 = new Map()
+    s = s.split("")
     t = t.split("")
-    s = s.split('')
-    s.forEach((value) => {
-        if (map1.has(value)) {
-            map1.set(value, map1.get(value) + 1)
-        }
-        else {
-            map1.set(value, 1)
-        }
-    })
-    t.forEach((value) => {
-        if (map2.has(value)) {
-            map2.set(value, map2.get(value) + 1)
-        }
-        else {
-            map2.set(value, 1)
-        }
-    })
-    for (let [value, key] of map1) {
-        if (map2.get(value) !== key) {
+    if (s.length !== t.length) return false
+    let first_sen = new Map()
+    let second_sen = new Map()
+
+    if (s.length !== t.length) return false;
+
+
+    for (let char of s) {
+        first_sen.set(char, (first_sen.get(char) || 0) + 1);
+    }
+
+    for (let char of t) {
+        second_sen.set(char, (second_sen.get(char) || 0) + 1);
+    }
+
+    for (let [key, value] of first_sen) {
+        if (!second_sen.has(key)) {
             return false
         }
+        else if (second_sen.has(key)) {
+            if (second_sen.get(key) !== value) return false
+        }
+
+
     }
     return true
-
-
 };
