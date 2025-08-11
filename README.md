@@ -785,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1972-rotating-the-box) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -920,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1894-merge-strings-alternately](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
