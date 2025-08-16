@@ -3,15 +3,19 @@
  * @return {number}
  */
 var removeDuplicates = function (nums) {
-    let left = 0
-    let right = left + 1
-    while (right <= nums.length - 1) {
-        if (nums[left] !== nums[right]) {
-            nums[left + 1] = nums[right]
-            left++
+    let first = 0
+    let second = 1
+
+    while (second < nums.length) {
+        if (nums[first] == nums[second]) {
+            second++
         }
-        right++
-    };
-    nums = nums.slice(0, left + 1)
+        else {
+            first++
+            nums[first] = nums[second]
+            second++
+        }
+    }
+    nums = nums.slice(0, first + 1)
     return nums.length
-}
+};
