@@ -4,21 +4,21 @@
  * @return {number[]}
  */
 var twoSum = function (numbers, target) {
-    let r = numbers.length - 1
-    let l = 0
-    do {
+    let first = 0
+    let second = numbers.length - 1
 
-        if (numbers[r] + numbers[l] > target) {
-            r = r - 1
+    while (first <= second) {
+        if (numbers[first] + numbers[second] > target) {
+            second = second - 1
         }
-        else if (numbers[r] + numbers[l] < target) {
-            l = l + 1
+        else if (numbers[first] + numbers[second] < target) {
+            first = first + 1
         }
         else {
-            l++;
-            r++;
-            return [l, r]
+            first++
+            second++
+            return [first, second]
         }
     }
-    while (l < r)
-}
+    return [second + 1, first + 1]
+};
