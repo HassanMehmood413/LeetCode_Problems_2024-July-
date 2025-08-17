@@ -20,5 +20,4 @@ var twoSum = function (numbers, target) {
             return [first, second]
         }
     }
-    return [second + 1, first + 1]
 };
