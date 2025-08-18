@@ -12,15 +12,17 @@ var threeSum = function (nums) {
         }
         let j = i + 1
         let k = nums.length - 1
+
         while (j < k) {
             let sum = nums[i] + nums[j] + nums[k]
+
             if (sum > 0) {
                 k--
             }
             else if (sum < 0) {
                 j++
             }
-            else if (sum == 0) {
+            else {
                 result.push([nums[i], nums[j], nums[k]])
                 j++
                 k--
