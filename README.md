@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0209-minimum-size-subarray-sum) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0287-find-the-duplicate-number) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0367-valid-perfect-square) |
