@@ -4,17 +4,16 @@
  */
 var lengthOfLongestSubstring = function (s) {
     let left = 0
-    let arr = []
+    let arr = new Set()
     let max = 0
     let right = 0
     while (right < s.length) {
-        while((arr.includes(s[right])) && (arr.length > 0)) {
-            arr.shift()
+        while((arr.has(s[right]))) {
+            arr.delete(s[left])
             left++
         }
-        console.log(arr)
-        arr.push(s[right])
-        max = Math.max(max, arr.length)
+        arr.add(s[right])
+        max = Math.max(max, right - left + 1)
         right++
     }
     return max
