@@ -8,7 +8,7 @@ var lengthOfLongestSubstring = function (s) {
     let max = 0
     let right = 0
     while (right < s.length) {
-        while((arr.has(s[right]))) {
+        while ((arr.has(s[right]))) {
             arr.delete(s[left])
             left++
         }
