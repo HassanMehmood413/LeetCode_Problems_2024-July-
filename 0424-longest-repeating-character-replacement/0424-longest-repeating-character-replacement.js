@@ -4,7 +4,6 @@
  * @return {number}
  */
 var characterReplacement = function (s, k) {
-    // current length - most repeated current number 
     let most = 0;
     let ans = 0;
     let left = 0;
