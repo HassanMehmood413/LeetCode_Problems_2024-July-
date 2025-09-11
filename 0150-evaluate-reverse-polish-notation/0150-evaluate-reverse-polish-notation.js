@@ -3,37 +3,43 @@
  * @return {number}
  */
 var evalRPN = function (tokens) {
+    let i = 0
     let stack = []
-    for (let i = 0; i < tokens.length; i++) {
+    while (i < tokens.length) {
         let el = tokens[i]
 
         if (el == '+') {
-            let first = stack.pop()
-            let second = stack.pop()
-            let sum = Number(first) + Number(second)
-            stack.push(sum)
+            let first = Number(stack.pop())
+            let second = Number(stack.pop())
+
+            let add = first + second
+            stack.push(add)
         }
         else if (el == '-') {
-            let first = stack.pop()
-            let second = stack.pop()
-            let neg = Number(second) - Number(first)
-            stack.push(neg)
-        }
-        else if (el == '*') {
-            let first = stack.pop()
-            let second = stack.pop()
-            let mul = Number(first) * Number(second)
-            stack.push(mul)
+            let first = Number(stack.pop())
+            let second = Number(stack.pop())
+
+            let add = second - first
+            stack.push(add)
         }
         else if (el == '/') {
-            let first = stack.pop()
-            let second = stack.pop()
-            let div = Math.trunc(Number(second) / Number(first))
-            stack.push(div)
+            let first = Number(stack.pop())
+            let second = Number(stack.pop())
+
+            let add = Math.trunc(second / first)
+            stack.push(add)
+        }
+        else if (el == '*') {
+            let first = Number(stack.pop())
+            let second = Number(stack.pop())
+
+            let add = first * second
+            stack.push(add)
         }
         else {
             stack.push(el)
         }
+        i++
     }
-    return Number(stack[0])
-};
+    return Number(stack.pop())
+}
