@@ -42,4 +42,4 @@ var evalRPN = function (tokens) {
         i++
     }
     return Number(stack.pop())
-}
+};
