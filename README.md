@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1023-time-based-key-value-store) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0787-sliding-puzzle) |
+| [0792-binary-search](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0794-swim-in-rising-water) |
 | [0859-design-circular-deque](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0861-flipping-an-image) |
