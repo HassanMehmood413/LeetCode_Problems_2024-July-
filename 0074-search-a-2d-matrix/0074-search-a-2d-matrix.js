@@ -4,50 +4,27 @@
  * @return {boolean}
  */
 var searchMatrix = function (matrix, target) {
-    // Time Complexity = 0(M LogN)
-    // Space Complextiy = 0(1)
-    // let isvalid = false
-    // for (let i = 0; i < matrix.length; i++) {
-    //     if (matrix[i][0] <= target && matrix[i][matrix[i].length - 1] >= target) {
-    //         let left = 0
-    //         let right = matrix[i].length
-    //         while (left <= right) {
-    //             let mid = Math.floor((left + right) / 2)
-    //             if (matrix[i][mid] == target) {
-    //                 return isvalid = true
-    //             }
-    //             else if (matrix[i][mid] > target) {
-    //                 right = mid - 1
-    //             }
-    //             else {
-    //                 left = mid + 1
-    //             }
-    //         }
-    //     }
-    //     if(isvalid == true){
+    if (!matrix || matrix.length === 0 || matrix[0].length === 0) return false;
 
-    //         return true
-    //     }
-    // }
-    // return isvalid
-
-    let n = matrix.length
-    let m = matrix[0].length
-
-    let left = 0
-    let right = n * m - 1
-    while (left <= right) {
-        let mid = Math.floor((left + right) / 2)
-        let row = Math.floor(mid / m)
-        let col = mid % m
-
-        if (matrix[row][col] == target) return true
-        else if (matrix[row][col] > target) {
-            right = mid - 1
-        }
-        else {
-            left = mid + 1
+    let row = null;
+    for (let i = 0; i < matrix.length; i++) {
+        const first = matrix[i][0];
+        const last = matrix[i][matrix[i].length - 1];
+        if (first <= target && target <= last) {
+            row = matrix[i];
+            break; 
         }
     }
-    return false
+    if (!row) return false;
+
+    let left = 0;
+    let right = row.length - 1;
+
+    while (left <= right) {
+        const mid = (left + right) >> 1;
+        if (row[mid] === target) return true;
+        if (row[mid] > target) right = mid - 1;
+        else left = mid + 1;
+    }
+    return false;
 };
