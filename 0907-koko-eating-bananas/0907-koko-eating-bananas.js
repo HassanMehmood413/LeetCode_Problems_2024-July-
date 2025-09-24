@@ -11,14 +11,10 @@ var minEatingSpeed = function (piles, h) {
     while (left <= right) {
         let mid = Math.floor((left + right) / 2)
         let count = 0
-        console.log(mid)
 
         for (let i = 0; i < piles.length; i++) {
             count += Math.ceil(piles[i] / mid)
         }
-        console.log("----------------")
-        console.log(count)
-
 
         if (count <= h) {
             ultra = mid
@@ -29,5 +25,5 @@ var minEatingSpeed = function (piles, h) {
         }
 
     }
-    return ultra
+    return left
 };
