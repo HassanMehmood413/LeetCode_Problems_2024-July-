@@ -6,7 +6,6 @@
 var minEatingSpeed = function (piles, h) {
     let left = 1
     let right = Math.max(...piles)
-    let ultra = Infinity
 
     while (left <= right) {
         let mid = Math.floor((left + right) / 2)
@@ -17,7 +16,6 @@ var minEatingSpeed = function (piles, h) {
         }
 
         if (count <= h) {
-            ultra = mid
             right = mid - 1
         }
         else {
