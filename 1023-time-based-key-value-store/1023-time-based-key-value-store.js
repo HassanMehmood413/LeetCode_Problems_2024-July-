@@ -10,7 +10,7 @@ var TimeMap = function () {
  * @return {void}
  */
 TimeMap.prototype.set = function (key, value, timestamp) {
-    if (!this.store.get(key)) {
+    if (!this.store.has(key)) {
         this.store.set(key, [])
     }
     this.store.get(key).push([value, timestamp])
