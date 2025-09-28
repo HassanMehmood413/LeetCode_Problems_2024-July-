@@ -10,7 +10,6 @@ var TimeMap = function () {
  * @return {void}
  */
 TimeMap.prototype.set = function (key, value, timestamp) {
-    console.log("SET")
     if (!this.store.get(key)) {
         this.store.set(key, [])
     }
@@ -24,16 +23,15 @@ TimeMap.prototype.set = function (key, value, timestamp) {
  * @return {string}
  */
 TimeMap.prototype.get = function (key, timestamp) {
-    console.log("GET")
+    let ans = ""
+    if (!this.store.has(key)) return ans
     let arr = this.store.get(key)
     let left = 0
     let right = arr.length - 1
-    let ans = ""
 
     while (left <= right) {
         let mid = Math.floor((left + right) / 2)
         let [v, t] = arr[mid]
-        console.log(v, t)
 
         if (t <= timestamp) {
             ans = v
