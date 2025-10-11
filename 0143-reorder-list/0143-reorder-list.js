@@ -10,32 +10,38 @@
  * @return {void} Do not return anything, modify head in-place instead.
  */
 var reorderList = function (head) {
-    //Finding Middle
-    let slow = head
-    let fast = head.next
+    // 1,2,3,4,5
+    //     s
+    //         f
+    // 1,2,5,4,3
+    if (!head || !head.next) return;
+
+
+    let slow = head, fast = head
     while (fast && fast.next) {
         slow = slow.next
         fast = fast.next.next
     }
-    // Reverse the second half
-    let second = slow.next
-    let prev = slow.next = null
-    while (second != null) {
-        let temp = second.next
-        second.next = prev
-        prev = second
-        second = temp
-    }
-    //merging both
-    let first = head
-    let second2 = prev
-    while (second2 != null) {
-        let t1 = first.next
-        let t2 = second2.next
-        first.next = second2
-        second2.next = t1
-        first = t1
-        second2 = t2
+
+    let prev = null
+    let curr = slow.next
+    slow.next = null
+    while (curr) {
+        let temp = curr.next
+        curr.next = prev
+        prev = curr
+        curr = temp
     }
 
+    // 3) Merge two halves alternately
+    let l1 = head, l2 = prev;
+    while (l2) {
+        const n1 = l1.next, n2 = l2.next;
+        l1.next = l2;
+        l2.next = n1;
+        l1 = n1;
+        l2 = n2;
+    }
+    return head
 };
+
