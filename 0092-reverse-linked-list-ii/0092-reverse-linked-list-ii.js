@@ -1,53 +1,34 @@
 /**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
- *   this.val = (val===undefined ? 0 : val)
- *   this.next = (next===undefined ? null : next)
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.next = (next===undefined ? null : next)
  * }
  */
-
 /**
  * @param {ListNode} head
- * @param {number} left   // 1-based position
- * @param {number} right  // 1-based position
+ * @param {number} left
+ * @param {number} right
  * @return {ListNode}
  */
 var reverseBetween = function (head, left, right) {
-    if (!head || !head.next || left === right) return head;
-
-    let dummy = new ListNode(0, head);
-    let prev = dummy;
-
-    for (let i = 1; i < left; i++) {
-        prev = prev.next;
+    let arr = []
+    let current = head
+    let dummy = new ListNode()
+    let prev = dummy
+    while (current != null) {
+        arr.push(current.val)
+        current = current.next
     }
+    const before = arr.slice(0, left - 1);
+    const portion = arr.slice(left - 1, right - 1 + 1);
+    const after = arr.slice(right - 1 + 1);
 
-    let rightNode = prev.next;
-    for (let i = left; i < right; i++) {
-        rightNode = rightNode.next;
+    const reversedPortion = portion.reverse();
+    arr = before.concat(reversedPortion, after)
+    for (let i = 0; i <= arr.length - 1; i++) {
+        prev.next = new ListNode(arr[i])
+        prev = prev.next
     }
-
-    let after = rightNode.next;
-    rightNode.next = null;
-    let segmentHead = prev.next;
-
-    let reversed = reverse_list(segmentHead);
-
-    prev.next = reversed;
-    segmentHead.next = after;
-
-    return dummy.next;
-};
-
-var reverse_list = function (lists) {
-    let curr = lists;
-    let prev = null;
-
-    while (curr) {
-        let temp = curr.next;
-        curr.next = prev;
-        prev = curr;
-        curr = temp;
-    }
-    return prev;
+    return dummy.next
 };
