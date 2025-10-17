@@ -22,5 +22,5 @@ var isValid = function (s) {
         }
         i++
     }
-    return true
+    return stack.length == 0
 };
