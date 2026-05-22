@@ -3,33 +3,37 @@
  * @param {string} t
  * @return {boolean}
  */
-var isAnagram = function (s, t) {
+var isAnagram = function(s, t) {
     s = s.split("")
     t = t.split("")
-    if (s.length !== t.length) return false
-    let first_sen = new Map()
-    let second_sen = new Map()
-
-    if (s.length !== t.length) return false;
-
-
-    for (let char of s) {
-        first_sen.set(char, (first_sen.get(char) || 0) + 1);
-    }
-
-    for (let char of t) {
-        second_sen.set(char, (second_sen.get(char) || 0) + 1);
-    }
-
-    for (let [key, value] of first_sen) {
-        if (!second_sen.has(key)) {
+    if(s.length !== t.length) return false
+    let s_map = new Map()
+    let t_map = new Map()
+    s.forEach((value, ind)=>{
+        if(s_map.has(value)){
+            s_map.set(value, s_map.get(value)+1)
+        }
+        else{
+            s_map.set(value, 1)
+        }
+    })
+    t.forEach((value, ind)=>{
+        if(t_map.has(value)){
+            t_map.set(value, t_map.get(value)+1)
+        }
+        else{
+            t_map.set(value, 1)
+        }
+    })
+    for(let [key,val] of s_map){
+        
+        if(!t_map.has(key)){
             return false
         }
-        else if (second_sen.has(key)) {
-            if (second_sen.get(key) !== value) return false
+        else if(t_map.get(key) !== s_map.get(key)){
+            return false
         }
-
-
+         
     }
     return true
 };
