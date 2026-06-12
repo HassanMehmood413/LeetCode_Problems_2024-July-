@@ -1,20 +1,23 @@
 /**
-* @param {string[]} strs
-* @return {string[][]}
-*/
+ * @param {string[]} strs
+ * @return {string[][]}
+ */
 var groupAnagrams = function (strs) {
-    let copy = [];
-    let anagram = new Map()
-    let result = []
-    for (let i = 0; i < strs.length; i++) {
-        let key = strs[i].split("").sort().join("")
-        if (!anagram.has(key)) {
-            anagram.set(key, [])
+    let order = ""
+    let map = new Map()
+    strs.forEach((value, index) => {
+        let check_arr = value.split("")
+        order = check_arr.sort().join("")
+        if (map.has(order)) {
+            map.get(order).push(value)
         }
-        anagram.get(key).push(strs[i])
+        else {
+            map.set(order, [value])
+        }
+    })
+    let ans = []
+    for (let [key, val] of map) {
+        ans.push(val)
     }
-    for (let [key, value] of anagram) {
-        result.push(value)
-    }
-    return result
+    return ans
 };
