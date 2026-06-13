@@ -4,20 +4,20 @@
  */
 var majorityElement = function (nums) {
     let map = new Map()
-    nums.forEach((value) => {
-        if (map.has(value)) {
-            map.set(value, map.get(value) + 1)
+    nums.forEach((val, ind) => {
+        if (map.has(val)) {
+            map.set(val, map.get(val) + 1)
         }
         else {
-            map.set(value, 1)
+            map.set(val, 1)
         }
     })
-    let max = 0
-    let length = nums.length
-    for (let [value, index] of map) {
-        if (index > (length / 2)) {
-            max = value
+    let max_one = 0, answer;
+    for (let [val, ind] of map) {
+        if (ind > max_one) {
+            max_one = ind
+            answer = val
         }
     }
-    return max
+    return answer
 };
