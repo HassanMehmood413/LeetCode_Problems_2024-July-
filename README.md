@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0907-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0952-word-subsets) |
 | [0983-validate-stack-sequences](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0983-validate-stack-sequences) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0654-maximum-binary-tree) |
+| [0912-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0883-car-fleet) |
+| [0912-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1014-k-closest-points-to-origin) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/1127-last-stone-weight) |
@@ -720,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
@@ -1467,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0948-sort-an-array) |
 ## Memoization
 |  |
@@ -1507,6 +1513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0274-h-index) |
+| [0912-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0948-sort-an-array) |
 ## Recursion
 |  |
@@ -1577,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0948-sort-an-array) |
 ## Eulerian Circuit
 |  |
