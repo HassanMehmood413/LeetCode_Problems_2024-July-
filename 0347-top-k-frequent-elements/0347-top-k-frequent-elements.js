@@ -5,24 +5,21 @@
  */
 var topKFrequent = function (nums, k) {
     let map = new Map()
-    nums.forEach(element => {
-        if (map.has(element)) {
-            map.set(element, map.get(element) + 1)
+    let ans = []
+    nums.forEach((key, value) => {
+        if (map.has(key)) {
+            map.set(key, map.get(key) + 1)
         }
         else {
-            map.set(element, 1)
+            map.set(key, 1)
         }
-    });
-    a = Array.from(map.entries()).sort((a, b) => b[1] - a[1])
-    let i = 1
-    let arr = []
-    for (const [index, key] of a) {
-        if (i <= k) {
-            if (key >= 1) {
-                arr.push(index)
-            }
-            i++
-        }
+    })
+
+
+    const sortedMap = [...map.entries()].sort((a, b) => b[1] - a[1])
+    for (let i = 0; i < k; i++) {
+        ans.push(sortedMap[i][0])
     }
-    return arr
+    return ans
+
 };
