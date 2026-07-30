@@ -1653,4 +1653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0374-guess-number-higher-or-lower) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HassanMehmood413/LeetCode_Problems_2024-July-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
