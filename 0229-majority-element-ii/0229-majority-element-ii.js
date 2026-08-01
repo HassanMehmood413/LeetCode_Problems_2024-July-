@@ -3,21 +3,22 @@
  * @return {number[]}
  */
 var majorityElement = function (nums) {
+    rounded_number = Math.floor(nums.length / 3)
     let map = new Map()
-    nums.forEach((value) => {
-        if (map.has(value)) {
-            map.set(value, map.get(value) + 1)
+    let ans = []
+
+    nums.forEach((val, ind) => {
+        if (map.has(val)) {
+            map.set(val, map.get(val) + 1)
         }
         else {
-            map.set(value, 1)
+            map.set(val, 1)
         }
     })
-    let arr = []
-    let length = nums.length
-    for (let [value, index] of map) {
-        if (index > (length / 3)) {
-            arr.push(value)
+    for(let [val,ind] of map){
+        if(ind > rounded_number){
+            ans.push(val)
         }
     }
-    return arr
+    return ans
 };
