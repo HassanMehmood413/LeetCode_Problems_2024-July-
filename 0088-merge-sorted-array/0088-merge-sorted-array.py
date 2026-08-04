@@ -3,7 +3,6 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        temp = []
         i = m-1
         j = n-1
         k = len(nums1)-1
